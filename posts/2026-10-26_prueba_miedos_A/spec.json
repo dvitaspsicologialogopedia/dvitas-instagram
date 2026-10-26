@@ -1,0 +1,7 @@
+{"fondo":"azul","eje":"PSICOLOGÍA INFANTIL","tema":"MIEDO A LA OSCURIDAD","reel":false,
+"slides":[
+{"tipo":"portada","titulo":"Le da miedo la oscuridad. ¿Y ahora?","subtitulo":"Qué es esperable por edad y cómo acompañarlo sin reforzar el miedo."},
+{"tipo":"lista","titulo":"Es habitual si…","items":["Aparece entre los 3 y los 7 años","Pide luz o compañía para dormir","Se calma con tu presencia","No le impide hacer su vida de día"]},
+{"tipo":"lista","titulo":"Conviene consultar si…","items":["Dura meses e interfiere en el sueño","Evita ir solo a otras habitaciones","Hay pesadillas casi todas las noches","El miedo va a más en lugar de a menos"],"aviso":true},
+{"tipo":"pasos","titulo":"Lo que sí puedes hacer hoy","pasos":[["Nómbralo","“Tienes miedo y es normal”."],["Luz tenue","Una luz quitamiedos le da control."],["Rutina previsible","Mismo orden cada noche."],["Pequeños retos","Apagar la luz 1 minuto contigo."]]},
+{"tipo":"cta","titulo":"Guárdalo y envíaselo a quien lo necesite"}]}
