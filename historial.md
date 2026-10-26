@@ -9,4 +9,4 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-29 | A | LOGOPEDIA INFANTIL | Señales de consulta | 3 señales para consultar con logopedia | programado antes
 2026-10-30 | A | BAMBALINAS | Primera cita | Así es la primera cita en DVITAS | programado antes
 2026-10-31 | A | PAREJAS | Discutir bien | ¿Discutís siempre por lo mismo? | programado antes
-2026-10-26 | PRUEBA A+B | PSICOLOGÍA INFANTIL / MITOS VS REALIDAD | Miedo a la oscuridad / Hablar del miedo | prueba técnica en borrador, no publicada |
+2026-10-26 | PRUEBA A+B | PSICOLOGÍA INFANTIL / MITOS VS REALIDAD | Miedo a la oscuridad / Hablar del miedo | prueba publicada 27-oct 00:01 (carrusel) y 00:05 (Reel) |
