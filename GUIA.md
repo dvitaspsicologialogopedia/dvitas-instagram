@@ -12,7 +12,19 @@ Contenido que se **guarde, se comparta y genere conversación**, y que lleve a l
 
 - Carruseles: Instagram, Facebook, TikTok (fotos) y Google Business (publicación con la primera imagen).
 - Stories: portada y CTA del carrusel **azul** (dos stories, 13:35 y 19:00). Los crema no van a stories.
-- Reels (del crema): Instagram, TikTok y Facebook Reel. Sin música. YouTube aún no está conectado.
+- Reels (del crema): Instagram, TikTok y Facebook Reel. YouTube aún no está conectado.
+
+## Música de los Reels
+- Instagram: música del catálogo de Instagram vía Metricool (`audioConfiguration`), instrumental y tranquila, `audioVolume` 25 y `videoVolume` 100. Rotar por día de la semana (lunes = 1.º … domingo = 7.º):
+  1. 2477944699150252 · Peaceful Piano (Dr. Pheel)
+  2. 1372666635060078 · Breathtaker (Giulio Cercato)
+  3. 592271352837708 · Beautiful (Giulio Cercato)
+  4. 976299230340697 · Someday (Instrumental) (Cy Curnin)
+  5. 432524367902096 · Piano Mystique (Brent Bourgeois)
+  6. 423124700418880 · Good Vibes (Giulio Cercato)
+  7. 2477944699150252 · Peaceful Piano (Dr. Pheel)
+- Si Metricool rechaza la canción, publicar el Reel sin música (no bloquear la publicación) y avisarlo en el resumen.
+- TikTok: `autoAddMusic` true. Facebook Reel: sin música (Metricool no lo permite).
 
 ## Ejes del carrusel A (azul) por día (rotar el subtema; mirar `historial.md` para no repetir en 4 semanas)
 | Día | Eje | Subtemas |
@@ -75,4 +87,4 @@ El eje de la píldora es la **categoría real** de la pieza: MITOS VS REALIDAD, 
 ## Límites (obligatorios)
 - Nunca diagnosticar a distancia ni prometer resultados ("curar", "garantizado", "100 %").
 - Nunca datos identificables de pacientes ni casos reales sin consentimiento.
-- Sin música en los Reels. Sin Canva.
+- Música solo la indicada en "Música de los Reels". Sin Canva.
