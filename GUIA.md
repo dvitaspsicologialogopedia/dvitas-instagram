@@ -23,12 +23,21 @@ Contenido que se **guarde, se comparta y genere conversación**, y que lleve a l
 | Miércoles | LOGOPEDIA INFANTIL | Señales de alerta por edad, juegos para estimular el habla, pronunciación (r, l), "ya hablará", tartamudez infantil |
 | Jueves | FAMILIA | Rutinas, deberes, comunicación en casa, pantallas, preparar una evaluación |
 | Viernes | TRASTORNOS DEL SUEÑO | Rutina de sueño, despertares, ronquidos, cuándo consultar (con la Dra. Fernández Fígares) |
-| Sábado | PAREJAS | Discutir bien, comunicación, estrés y convivencia, crianza en pareja |
-| Domingo | LOGOPEDIA DE ADULTOS | Afasia tras ictus, disfonía, tartamudez adulta, rehabilitación cognitiva |
+| Sábado | PAREJAS | Discutir bien, comunicación, estrés y convivencia, crianza en pareja, celos, reparar tras una discusión |
+| Domingo | Semanas alternas: PSICOLOGÍA DE ADULTOS / LOGOPEDIA DE ADULTOS | Adultos: ansiedad, estrés y agotamiento, duelo, autoestima, insomnio y rumiación, cuándo pedir ayuda. Logopedia: afasia tras ictus, disfonía, tartamudez adulta, rehabilitación cognitiva |
+
+**Carrusel B (crema, con Reel) en los días dobles:**
+| Día | Eje del B |
+|---|---|
+| Lunes | PSICOLOGÍA DE ADULTOS |
+| Miércoles | MITOS VS REALIDAD ("Mito de la semana", de cualquier área, incluidos adultos y parejas) |
+| Viernes | PAREJAS |
+
+Así, psicología de adultos y parejas salen al menos dos veces por semana cada una.
 
 El eje de la píldora es la **categoría real** de la pieza: MITOS VS REALIDAD, BAMBALINAS o DIVERTRAINING sustituyen al eje del día cuando la pieza es de ese tipo. Proporción mensual aproximada: 40 % educación clínica · 25 % tips para familias · 15 % bambalinas · 10 % mitos · 10 % DIVERTRAINING. Series: "Mito de la semana" (miércoles, carrusel B), "3 señales…" (jueves o viernes), "Lo que dice la evidencia" (lunes).
 
-En los días dobles el **carrusel B (crema)** trata un tema distinto del A, con formato muy visual y fácil de pasar a vídeo (pasos, mito vs realidad, 3 ideas).
+En los días dobles el **carrusel B (crema)** trata un tema distinto del A, según la tabla de arriba, con formato muy visual y fácil de pasar a vídeo (pasos, mito vs realidad, 3 ideas). En adultos y parejas, mismo rigor: nada de diagnósticos a distancia; derivar a cita.
 
 ## Estructura de cada carrusel (5–7 slides)
 1. `portada`: gancho de **máximo 8 palabras** (pregunta que genera duda, afirmación que sorprende, cifra o lista, contraste) + subtítulo corto.
