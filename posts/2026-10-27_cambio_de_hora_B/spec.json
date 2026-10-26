@@ -1,0 +1,7 @@
+{"fondo":"crema","eje":"ACTUALIDAD","tema":"CAMBIO DE HORA","reel":true,
+"slides":[
+{"tipo":"portada","titulo":"¿Más cansado desde el cambio de hora?","subtitulo":"Lo que dice la evidencia y qué puedes hacer esta semana."},
+{"tipo":"lista","titulo":"Qué ha pasado","items":["El domingo 25 atrasamos los relojes una hora","Anochece antes y hay menos luz por la tarde","El reloj biológico se ajusta sobre todo con la luz natural"]},
+{"tipo":"lista","titulo":"Qué dice la evidencia","items":["Algunos estudios asocian el cambio de otoño con más bajones de ánimo","La luz de la mañana ayuda a ajustar el reloj interno","Especialistas en sueño piden un horario fijo todo el año"]},
+{"tipo":"pasos","titulo":"Qué puedes hacer esta semana","pasos":[["Busca luz temprano","Sal al exterior a primera hora."],["Horario fijo","Acuéstate y levántate a la misma hora."],["Muévete de día","La actividad ayuda a dormir mejor."],["Vigila el ánimo","Si el bajón dura semanas, consulta."]]},
+{"tipo":"cta","titulo":"Guárdalo y envíaselo a quien lo necesite"}]}
