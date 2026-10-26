@@ -55,27 +55,37 @@ Busca con WebSearch noticias y tendencias de los **últimos 7 días** (España p
 
 El eje de la píldora es la **categoría real** de la pieza: MITOS VS REALIDAD, BAMBALINAS o DIVERTRAINING sustituyen al eje del día cuando la pieza es de ese tipo. Proporción mensual aproximada: 40 % educación clínica · 25 % tips para familias · 15 % bambalinas · 10 % mitos · 10 % DIVERTRAINING. Series en el carrusel A: "Lo que dice la evidencia" (lunes), "Mito de la semana" (jueves, con eje MITOS VS REALIDAD), "3 señales…" (viernes). En adultos y parejas, mismo rigor: nada de diagnósticos a distancia; derivar a cita.
 
-## Estructura de cada carrusel (5–7 slides)
-1. `portada`: gancho de **máximo 8 palabras** (pregunta que genera duda, afirmación que sorprende, cifra o lista, contraste) + subtítulo corto.
-2. Slides 2–5: una idea por slide (`lista` con 3–5 viñetas, `pasos`, `datos`).
+## Estructura de cada carrusel (5–7 slides) · diseño dinámico v2
+1. `portada`: gancho de **máximo 8 palabras** con 1–3 palabras destacadas entre `*asteriscos*` + subtítulo corto. Sale con decoración (anillo y destellos naranjas) y el botón "DESLIZA".
+2. Slides 2–5: una idea por slide, **variando el tipo** para que el carrusel tenga ritmo (no repetir el mismo tipo dos veces seguidas):
+   - `lista` (3–6 ítems en tarjetas; `"numerada": true` para "6 señales…"; palabras clave en `**negrita**`)
+   - `tarjetas` (2–4 tarjetas en cuadrícula: perfil, áreas, tipos)
+   - `mito` (tarjeta MITO con borde naranja + tarjeta REALIDAD con borde teal)
+   - `cita` (frase potente en grande entre comillas, ideal como slide 2 de "gancho emocional")
+   - `pasos` (2–4 pasos numerados en tarjetas)
+   - `datos` (barras orientativas)
 3. Penúltima: "Lo que sí puedes hacer hoy" (valor inmediato), normalmente `pasos`.
 4. Última: `cta` o `cierre`.
+- Slides intermedias llevan pie automático: DVITAS · Psicología y Logopedia · Málaga · n/N.
 - Lista de señales: siempre `"aviso": true` (aviso clínico).
 - `datos` solo con cifras orientativas bien establecidas y fuente oficial citada en el caption; ante la duda, no uses `datos`.
-- Titulares de slide de máximo 3 líneas; frases cortas. Sin emojis en las imágenes.
+- Títulos de máximo 3 líneas; frases cortas. Sin emojis en las imágenes.
 
 ## Ficha `spec.json` (la lee `tools/render.py`)
 ```json
-{"fondo": "azul", "eje": "PSICOLOGÍA INFANTIL", "tema": "MIEDOS", "reel": false,
+{"fondo": "azul", "eje": "EVALUACIÓN NEUROPSICOLÓGICA", "tema": "ALTAS CAPACIDADES", "reel": false,
  "slides": [
-  {"tipo": "portada", "titulo": "¿Miedo normal o señal de alerta?", "subtitulo": "Cómo distinguirlos"},
-  {"tipo": "lista", "titulo": "Cuándo conviene consultar", "items": ["...", "..."], "aviso": true},
-  {"tipo": "pasos", "titulo": "Qué puedes hacer hoy", "pasos": [["Valida el miedo", "No lo minimices."]]},
+  {"tipo": "portada", "titulo": "Altas capacidades: *no es solo el CI*", "subtitulo": "Qué mide de verdad una evaluación."},
+  {"tipo": "tarjetas", "titulo": "Un *perfil completo*", "tarjetas": [["Capacidad intelectual", "Razonamiento, memoria"], ["Creatividad", "Ideas originales"]]},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si tiene altas capacidades, sacará buenas notas.", "realidad": "Muchos **pasan desapercibidos**…"},
+  {"tipo": "cita", "cita": "No es una hora de sueño: *es tu reloj interno* ajustándose"},
+  {"tipo": "lista", "titulo": "Señales que merecen una *valoración*", "numerada": true, "items": ["Vocabulario **rico y precoz**", "..."], "aviso": true},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Valida el miedo", "No lo minimices."]]},
   {"tipo": "datos", "titulo": "...", "filas": [["18 meses", 0.3, "20-50 palabras"]], "nota": "Orientativo. Fuente: ..."},
-  {"tipo": "cta", "titulo": "Guárdalo y envíaselo a quien lo necesite"}
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
  ]}
 ```
-`fondo`: "azul" (carrusel A) o "crema" (carrusel B). `reel: true` solo en el crema. `tema`: 1–3 palabras.
+`fondo`: "azul" (carrusel A) o "crema" (carrusel B). `reel: true` solo en el crema (el Reel sale con zoom suave y fundidos). `tema`: 1–3 palabras.
 
 ## Caption
 - Primera línea = gancho. 4–8 líneas claras, lenguaje cercano y riguroso.
