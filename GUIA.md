@@ -24,7 +24,7 @@ Contenido que se **guarde, se comparta y genere conversación**, y que lleve a l
   6. 423124700418880 · Good Vibes (Giulio Cercato)
   7. 2477944699150252 · Peaceful Piano (Dr. Pheel)
 - Si Metricool rechaza la canción, publicar el Reel sin música (no bloquear la publicación) y avisarlo en el resumen.
-- TikTok: `autoAddMusic` true. Facebook Reel: sin música (Metricool no lo permite).
+- TikTok: en vídeos `autoAddMusic` debe ser false (TikTok solo lo permite en fotos). Facebook Reel: sin música (Metricool no lo permite).
 
 ## Ejes del carrusel A (azul) por día (rotar el subtema; mirar `historial.md` para no repetir en 4 semanas)
 | Día | Eje | Subtemas |
