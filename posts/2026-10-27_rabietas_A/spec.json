@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA INFANTIL", "tema": "RABIETAS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "Rabietas: *qué hacer* en pleno huracán", "subtitulo": "Y cuándo conviene consultar."},
+  {"tipo": "cita", "cita": "Una rabieta no es un desafío: *es un cerebro* que aún aprende a frenar"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si cedes, la rabieta se acaba antes.", "realidad": "Funciona hoy, pero **enseña que gritar sirve**. Mejor calma, límite firme y acompañar."},
+  {"tipo": "lista", "titulo": "Señales que merecen una *valoración*", "numerada": true, "items": ["Rabietas **casi a diario**, varias veces", "Duran mucho y **cuesta muchísimo calmarle**", "Se **hace daño** o hace daño a otros", "Siguen igual de intensas **pasados los 5-6 años**", "Aparecen también **en el cole** y con otros adultos"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Mantén la calma", "Baja la voz: tu calma le ayuda a regularse."], ["Nombra la emoción", "«Estás muy enfadado, lo entiendo»."], ["Sostén el límite", "El no sigue siendo no, con cariño."], ["Habla después", "Cuando pase, repasad juntos qué ayudó."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
