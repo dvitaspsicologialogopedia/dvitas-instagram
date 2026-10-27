@@ -1,0 +1,10 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "DÍA DEL TDAH", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "Hoy hablamos de *TDAH* sin etiquetas", "subtitulo": "27 de octubre · Día Nacional de Concienciación sobre el TDAH."},
+  {"tipo": "tarjetas", "titulo": "No siempre *se ve igual*", "tarjetas": [["Inatenta", "Despistes, olvidos, le cuesta terminar"], ["Hiperactiva", "Impulsividad, se mueve mucho, no espera"], ["Combinada", "Mezcla de ambas"], ["En adultos", "Desorden, inquietud interna, impulsividad"]]},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Es cosa de niños: se pasa al crecer.", "realidad": "En muchas personas **continúa en la edad adulta**, aunque cambie cómo se manifiesta."},
+  {"tipo": "cita", "cita": "En muchas niñas el TDAH es *más silencioso* y pasa desapercibido"},
+  {"tipo": "lista", "titulo": "Señales que merecen una *valoración*", "numerada": true, "items": ["Le cuesta **mantener la atención** en tareas y juegos", "**Pierde u olvida** cosas a menudo", "Actúa **sin pensar** o interrumpe con frecuencia", "Ocurre **en casa y en el cole** (o el trabajo)", "Afecta a sus **notas, relaciones o autoestima**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Observa y anota", "En qué situaciones aparece y desde cuándo."], ["Habla con el colegio", "Compara lo que ves en casa con el aula."], ["Pide una evaluación", "Un perfil completo, no solo una etiqueta."], ["Busca un abordaje conjunto", "Familia, escuela y profesionales a la vez."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -12,3 +12,4 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-26 | PRUEBA A+B | PSICOLOGÍA INFANTIL / MITOS VS REALIDAD | Miedo a la oscuridad / Hablar del miedo | prueba publicada 27-oct 00:01 (carrusel) y 00:05 (Reel) |
 2026-10-27 | B | ACTUALIDAD | Cambio de hora (adultos) | ¿Más cansado desde el cambio de hora? | NO publicado: Metricool "account limit" (00:12 y 00:16). Fuente: Infocop 27/03/2026 |
 2026-10-27 | A | PSICOLOGÍA INFANTIL | Rabietas | Rabietas: qué hacer en pleno huracán | automático; B y Reel no: ya publicados hoy (cambio de hora)
+2026-10-27 | B extra | ACTUALIDAD | Día Nacional del TDAH | Hoy hablamos de TDAH sin etiquetas | a petición de Estefanía, publicado ya. Fuente: DSM-5-TR; Día Nacional de Concienciación sobre el TDAH 27/10
