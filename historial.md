@@ -13,3 +13,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-27 | B | ACTUALIDAD | Cambio de hora (adultos) | ¿Más cansado desde el cambio de hora? | NO publicado: Metricool "account limit" (00:12 y 00:16). Fuente: Infocop 27/03/2026 |
 2026-10-27 | A | PSICOLOGÍA INFANTIL | Rabietas | Rabietas: qué hacer en pleno huracán | automático; B y Reel no: ya publicados hoy (cambio de hora)
 2026-10-27 | B extra | ACTUALIDAD | Día Nacional del TDAH | Hoy hablamos de TDAH sin etiquetas | a petición de Estefanía, publicado ya. Fuente: DSM-5-TR; Día Nacional de Concienciación sobre el TDAH 27/10
+2026-10-28 | A | LOGOPEDIA DE ADULTOS | Disfonía | ¿Ronquera que no se va? | automático (nota: el A "Mito TDAH" previsto solo estaba en Google Business)
+2026-10-28 | B | ACTUALIDAD | Día Mundial del Ictus | Ictus: cada minuto cuenta | automático, Reel 20:30. Fuente: Fundación Freno al Ictus y SEN (29/10/2026); señales: Quirónsalud La Luz

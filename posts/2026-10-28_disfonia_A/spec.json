@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "LOGOPEDIA DE ADULTOS", "tema": "DISFONÍA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Ronquera que *no se va*?", "subtitulo": "Tu voz también se cuida."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si me quedo ronco, ya se pasará solo.", "realidad": "A veces sí, pero si **dura más de 2-3 semanas** conviene revisarla."},
+  {"tipo": "tarjetas", "titulo": "Quién la *fuerza más*", "tarjetas": [["Docentes", "Muchas horas hablando"], ["Teleoperadores", "Voz todo el día"], ["Padres y madres", "Hablar alto en casa"], ["Cantantes", "Exigencia vocal alta"]]},
+  {"tipo": "lista", "titulo": "Señales para *consultar*", "numerada": true, "items": ["Ronquera **más de 2-3 semanas**", "Voz que **se cansa** al final del día", "**Dolor o esfuerzo** al hablar", "Necesitas **carraspear** a menudo", "Pierdes voz **de forma repetida**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Hidrátate", "Bebe agua a lo largo del día."], ["No grites", "Acércate en lugar de alzar la voz."], ["Haz pausas", "Descansa la voz entre clases o llamadas."], ["Evita carraspear", "Mejor traga saliva o bebe un sorbo."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "DÍA DEL ICTUS", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Ictus: *cada minuto* cuenta", "subtitulo": "29 de octubre, Día Mundial del Ictus."},
+  {"tipo": "cita", "cita": "Ante un ictus, *llamar pronto al 112* es lo que más ayuda"},
+  {"tipo": "lista", "titulo": "Señales de *alarma*", "items": ["**Pérdida de fuerza** en la cara, un brazo o una pierna", "**Dificultad para hablar** o entender", "**Pérdida brusca** de visión", "**Inestabilidad** repentina al caminar", "**Dolor de cabeza** muy intenso, como nunca"]},
+  {"tipo": "tarjetas", "titulo": "Después del ictus, *la rehabilitación*", "tarjetas": [["Lenguaje", "Afasia: hablar y comprender"], ["Habla y voz", "Articulación más clara"], ["Memoria y atención", "Rehabilitación cognitiva"], ["Familia", "Pautas para comunicarse"]]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Aprende las señales", "Compártelas con tu familia."], ["Llama al 112", "Aunque los síntomas mejoren."], ["Anota la hora", "Cuándo empezaron los síntomas."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
