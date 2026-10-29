@@ -18,3 +18,4 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-29 | A | MITOS VS REALIDAD (FAMILIA) | Deberes | Mito: hacerle los deberes es ayudarle | automático, Mito de la semana
 2026-10-29 | B | ACTUALIDAD | Decálogo pantallas Control Z | Pantallas: nuevas pautas por edades | automático, Reel 20:30. Fuente: Plataforma Control Z (27/10/2026) vía Infocop (28/10/2026)
 2026-10-30 | A | LOGOPEDIA INFANTIL | 3 señales | ¿Tu hijo necesita logopeda? | a petición de Estefanía, 10:00 (sustituye al A automático del viernes)
+2026-10-29 | REEL | PSICOLOGÍA DE ADULTOS | Duelo en emergencias | Duelo tras una emergencia | a petición de Estefanía (Reel azul, sin carrusel). Arreglado tools/render.py: los Reels salían de ~4 s

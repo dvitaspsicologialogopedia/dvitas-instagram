@@ -438,7 +438,9 @@ def make_reel(files, th, out, dur=5.0, fade=0.5, fps=30):
     nf = int(dur * fps)
     args = [ff, "-y", "-loglevel", "error"]
     for p in frames:
-        args += ["-loop", "1", "-t", str(dur), "-i", p]
+        # -framerate igual a fps: cada imagen da exactamente dur*fps fotogramas (sin esto el
+        # vídeo se queda en ~4 s porque zoompan recibe 25 fps y los fundidos se salen de rango)
+        args += ["-loop", "1", "-framerate", str(fps), "-t", str(dur), "-i", p]
     parts = []
     for k in range(n):
         zin = k % 2 == 0  # alterna acercar / alejar

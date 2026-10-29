@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA DE ADULTOS", "tema": "DUELO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Duelo tras una *emergencia*", "subtitulo": "Cuando la pérdida llega de golpe."},
+  {"tipo": "cita", "cita": "Sentirte bloqueado, culpable o en shock *no es debilidad*: es una reacción humana"},
+  {"tipo": "lista", "titulo": "Reacciones *frecuentes* los primeros días", "items": ["**Shock** o sensación de irrealidad", "**Revivir** lo ocurrido una y otra vez", "**Insomnio** y cansancio", "**Culpa**: «podría haber hecho algo»"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["No te aísles", "Habla con alguien de confianza."], ["Cuida lo básico", "Comer, beber agua, descansar."], ["Respeta tu ritmo", "No hay una forma correcta de sentir."], ["Pide ayuda", "Si la necesitas, también al principio."]]},
+  {"tipo": "lista", "titulo": "Cuándo *consultar*", "numerada": true, "items": ["Pasado **un mes** sigue igual o peor", "**No puedes** hacer tu vida diaria", "**Evitas** todo lo que te lo recuerda", "Pesadillas o sobresaltos **constantes**"], "aviso": true},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
