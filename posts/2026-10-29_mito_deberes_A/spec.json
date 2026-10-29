@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "MITOS VS REALIDAD", "tema": "DEBERES", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "Mito: hacerle los deberes *es ayudarle*", "subtitulo": "Mito de la semana para familias."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si le hago yo los deberes, termina antes y aprende igual.", "realidad": "Aprende cuando **lo intenta él**. Tu papel es acompañar, no resolver."},
+  {"tipo": "cita", "cita": "Ayudar es *estar cerca*, no tener el lápiz"},
+  {"tipo": "tarjetas", "titulo": "Tu papel, *en cuatro claves*", "tarjetas": [["Espacio", "Mesa fija y sin pantallas"], ["Rutina", "Misma hora cada día"], ["Pistas", "Pregunta antes de corregir"], ["Esfuerzo", "Elogia el intento"]]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Planificad juntos", "Qué hay que hacer y en qué orden."], ["Retírate poco a poco", "Quédate cerca, pero no encima."], ["Si se bloquea siempre", "Habla con el tutor o consulta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

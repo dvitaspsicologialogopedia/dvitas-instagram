@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "PANTALLAS", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Pantallas: *nuevas pautas* por edades", "subtitulo": "El decálogo de la Plataforma Control Z."},
+  {"tipo": "tarjetas", "titulo": "Qué *recomiendan*", "tarjetas": [["0 a 6 años", "Evitar pantallas, salvo videollamadas"], ["7 a 12 años", "Menos de 1 hora al día"], ["13 a 16 años", "Menos de 2 horas al día"], ["Smartphone propio", "Retrasarlo hasta los 16"]]},
+  {"tipo": "cita", "cita": "No es prohibir por prohibir: *es proteger* su sueño, su atención y sus relaciones"},
+  {"tipo": "lista", "titulo": "Qué significa *en casa*", "items": ["El tiempo **incluye los deberes** con pantalla", "Uso **progresivo y supervisado**", "Más **juego y relación** cara a cara", "Fomentar **hábitos saludables** cada día"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Haz un plan familiar", "Horarios y zonas sin pantallas."], ["Da ejemplo", "Los adultos también cuentan."], ["Observa cambios", "Sueño, humor o atención: consulta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

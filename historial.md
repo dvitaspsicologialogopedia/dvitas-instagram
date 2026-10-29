@@ -15,3 +15,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-27 | B extra | ACTUALIDAD | Día Nacional del TDAH | Hoy hablamos de TDAH sin etiquetas | a petición de Estefanía, publicado ya. Fuente: DSM-5-TR; Día Nacional de Concienciación sobre el TDAH 27/10
 2026-10-28 | A | LOGOPEDIA DE ADULTOS | Disfonía | ¿Ronquera que no se va? | automático (nota: el A "Mito TDAH" previsto solo estaba en Google Business)
 2026-10-28 | B | ACTUALIDAD | Día Mundial del Ictus | Ictus: cada minuto cuenta | automático, Reel 20:30. Fuente: Fundación Freno al Ictus y SEN (29/10/2026); señales: Quirónsalud La Luz
+2026-10-29 | A | MITOS VS REALIDAD (FAMILIA) | Deberes | Mito: hacerle los deberes es ayudarle | automático, Mito de la semana
+2026-10-29 | B | ACTUALIDAD | Decálogo pantallas Control Z | Pantallas: nuevas pautas por edades | automático, Reel 20:30. Fuente: Plataforma Control Z (27/10/2026) vía Infocop (28/10/2026)
