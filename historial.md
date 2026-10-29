@@ -17,3 +17,4 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-28 | B | ACTUALIDAD | Día Mundial del Ictus | Ictus: cada minuto cuenta | automático, Reel 20:30. Fuente: Fundación Freno al Ictus y SEN (29/10/2026); señales: Quirónsalud La Luz
 2026-10-29 | A | MITOS VS REALIDAD (FAMILIA) | Deberes | Mito: hacerle los deberes es ayudarle | automático, Mito de la semana
 2026-10-29 | B | ACTUALIDAD | Decálogo pantallas Control Z | Pantallas: nuevas pautas por edades | automático, Reel 20:30. Fuente: Plataforma Control Z (27/10/2026) vía Infocop (28/10/2026)
+2026-10-30 | A | LOGOPEDIA INFANTIL | 3 señales | ¿Tu hijo necesita logopeda? | a petición de Estefanía, 10:00 (sustituye al A automático del viernes)

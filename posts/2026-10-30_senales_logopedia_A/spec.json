@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "LOGOPEDIA INFANTIL", "tema": "3 SEÑALES", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Tu hijo necesita *logopeda*?", "subtitulo": "3 señales para consultar."},
+  {"tipo": "cita", "cita": "No se trata de esperar a que *ya hablará*: se trata de valorar a tiempo"},
+  {"tipo": "lista", "titulo": "3 señales para *consultar*", "numerada": true, "items": ["Fuera de casa **cuesta mucho entenderle**", "Confunde sonidos como **la r y la l** después de los 5 años", "**Evita hablar** en el cole o con otros niños"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Ya hablará, cada niño tiene su ritmo.", "realidad": "Cada niño tiene su ritmo, pero **una valoración a tiempo** aclara dudas y evita esperas innecesarias."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Escúchale sin prisas", "Dale tiempo para terminar."], ["Repite bien, sin corregir", "Si dice 'lojo', responde 'sí, rojo'."], ["Leed juntos", "Cuentos, canciones y rimas cada día."], ["Anota lo que te preocupa", "Te ayudará en la consulta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
