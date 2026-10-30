@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "ESPORTS", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "eSports infantiles: *riesgos ocultos*", "subtitulo": "Lo que alerta un informe de Save the Children."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["300 millones", "de menores compiten en eSports"], ["62 %", "de directos de Twitch con lenguaje sexista"], ["84 %", "con lenguaje capacitista"], ["97 %", "con lenguaje violento"]]},
+  {"tipo": "lista", "titulo": "Riesgos que *señala*", "items": ["**Sueño alterado** por sesiones nocturnas", "**Estrés y ansiedad** por la competición", "**Ciberacoso** en chats y redes", "**Dolor** de cuello, hombros y muñecas"]},
+  {"tipo": "cita", "cita": "Jugar no es malo: *que no le quite* sueño ni amigos"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Pon horarios", "Sin partidas por la noche."], ["Conoce sus chats", "Con quién juega y qué lee."], ["Observa cambios", "Sueño, humor o notas: consulta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
