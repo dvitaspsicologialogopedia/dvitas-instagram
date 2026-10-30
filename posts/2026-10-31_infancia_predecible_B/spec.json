@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "INFANCIA PREDECIBLE", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Niños más *protegidos*: saber qué viene", "subtitulo": "Un estudio con casi 30.000 menores."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["29.861", "niños y adolescentes de 0 a 17 años"], ["19 clínicas", "pediátricas en California (EE. UU.)"], ["Nature Mental Health", "publica el estudio en 2026"], ["Imprevisibilidad", "en su entorno, medida con un breve cuestionario"]]},
+  {"tipo": "lista", "titulo": "Qué *significa*", "items": ["Más imprevisibilidad se asoció con **más problemas** de salud mental", "Sobre todo **ánimo bajo** y **problemas de sueño**", "La relación es **gradual**: a más, más riesgo", "Muestra **asociación**, no demuestra causa"]},
+  {"tipo": "cita", "cita": "Un niño que sabe qué viene *se siente seguro*"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Rutinas estables", "Horarios parecidos para comer y dormir."], ["Anticipa cambios", "Cuéntale antes qué va a pasar."], ["Responde parecido", "Mismas normas, aunque estés cansado."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

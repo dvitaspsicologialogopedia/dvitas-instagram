@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PAREJAS", "tema": "REPARAR", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "Después de discutir: *cómo reparar*", "subtitulo": "Lo que más cuida a una pareja no es no discutir."},
+  {"tipo": "cita", "cita": "Discutir es normal: *lo importante es volver* el uno al otro"},
+  {"tipo": "lista", "titulo": "Lo que *alarga* el conflicto", "items": ["**Hacer como si nada** y no volver a hablarlo", "**Esperar** a que el otro dé el primer paso", "Pedir perdón con un **«pero…»**", "**Sacar temas antiguos** en cada discusión"]},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si nos queremos, no deberíamos discutir.", "realidad": "Las parejas que se cuidan también discuten: **saben repararlo** después."},
+  {"tipo": "pasos", "titulo": "Lo que sí podéis hacer *hoy*", "pasos": [["Pausa y calma", "Retomad la charla cuando bajen los nervios."], ["Reconoce tu parte", "«Me pasé cuando dije…», sin excusas."], ["Un gesto de vuelta", "Un abrazo, un café, una frase cariñosa."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a tu pareja"}
+ ]}

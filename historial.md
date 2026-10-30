@@ -20,3 +20,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-30 | A | LOGOPEDIA INFANTIL | 3 señales | ¿Tu hijo necesita logopeda? | a petición de Estefanía, 10:00 (sustituye al A automático del viernes)
 2026-10-29 | REEL | PSICOLOGÍA DE ADULTOS | Duelo en emergencias | Duelo tras una emergencia | a petición de Estefanía (Reel azul, sin carrusel). Arreglado tools/render.py: los Reels salían de ~4 s
 2026-10-30 | B | ACTUALIDAD | eSports infantiles | eSports infantiles: riesgos ocultos | automático, Reel 20:30. Fuente: Save the Children «Protecting Child Rights in eSports» vía Infobae (29/10/2026)
+2026-10-31 | A | PAREJAS | Reparar tras una discusión | Después de discutir: cómo reparar | automático (no se hace GMB propio: ya había uno de parejas a las 13:30)
+2026-10-31 | B | ACTUALIDAD | Imprevisibilidad en la infancia | Niños más protegidos: saber qué viene | automático, Reel 20:30. Fuente: Glynn et al., Nature Mental Health (2026), vía Infocop (27/10/2026)
