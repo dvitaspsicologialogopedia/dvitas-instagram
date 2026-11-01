@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "VIDEOJUEGOS", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Videojuegos: lo que *sí funciona* en el cole", "subtitulo": "Un ensayo con 1.793 adolescentes."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["1.793", "estudiantes de 44 institutos alemanes, unos 13 años"], ["4 sesiones", "de 90 minutos en horario escolar"], ["2 programas", "terapia cognitivo-conductual o alfabetización mediática"], ["JAMA Network Open", "publica el ensayo en 2026"]]},
+  {"tipo": "lista", "titulo": "Qué *significa*", "items": ["En chicos de **alto riesgo**, la TCC redujo más los síntomas", "Trabajó **pensamientos, emociones** y motivación para cambiar", "En el resto del alumnado, **sin diferencias** entre programas", "Seguimiento de **12 meses** y en una sola región"]},
+  {"tipo": "cita", "cita": "No basta con informar: *ayuda más aprender a gestionar* lo que se siente"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Observa sin alarmarte", "Jugar mucho no siempre es un problema."], ["Habla de emociones", "Pregunta qué le aporta el juego y cómo se siente."], ["Pide ayuda a tiempo", "Si ves riesgo, consulta: actuar pronto funciona."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA DE ADULTOS", "tema": "RUMIACIÓN", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿No paras de *darle vueltas*?", "subtitulo": "Qué es la rumiación y cómo frenarla."},
+  {"tipo": "cita", "cita": "Pensar en un problema *no es lo mismo* que resolverlo"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si le doy más vueltas, encontraré la solución.", "realidad": "La rumiación **repite** el problema sin avanzar y suele **aumentar** la ansiedad y el ánimo bajo."},
+  {"tipo": "lista", "titulo": "Señales de que estás *rumiando*", "numerada": true, "items": ["Repites la **misma escena** una y otra vez", "Te preguntas **por qué** sin llegar a nada", "Te cuesta **dormirte** por los pensamientos", "Terminas **más cansado** y peor que antes"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Ponle nombre", "Dite: estoy rumiando, no resolviendo."], ["Pasa a la acción", "Si hay algo que hacer, escribe un primer paso."], ["Cambia de foco", "Muévete o haz algo que ocupe tu atención."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -22,3 +22,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-30 | B | ACTUALIDAD | eSports infantiles | eSports infantiles: riesgos ocultos | automático, Reel 20:30. Fuente: Save the Children «Protecting Child Rights in eSports» vía Infobae (29/10/2026)
 2026-10-31 | A | PAREJAS | Reparar tras una discusión | Después de discutir: cómo reparar | automático (no se hace GMB propio: ya había uno de parejas a las 13:30)
 2026-10-31 | B | ACTUALIDAD | Imprevisibilidad en la infancia | Niños más protegidos: saber qué viene | automático, Reel 20:30. Fuente: Glynn et al., Nature Mental Health (2026), vía Infocop (27/10/2026)
+2026-11-01 | A | PSICOLOGÍA DE ADULTOS | Rumiación | ¿No paras de darle vueltas? | automático
+2026-11-01 | B | ACTUALIDAD | Videojuegos y TCC escolar | Videojuegos: lo que sí funciona en el cole | automático, Reel 20:30. Fuente: Lindenberg et al., JAMA Network Open (2026), vía Infocop (28/10/2026)
