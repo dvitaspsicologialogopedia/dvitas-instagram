@@ -98,3 +98,6 @@ El eje de la píldora es la **categoría real** de la pieza: MITOS VS REALIDAD, 
 - Nunca diagnosticar a distancia ni prometer resultados ("curar", "garantizado", "100 %").
 - Nunca datos identificables de pacientes ni casos reales sin consentimiento.
 - Música solo la indicada en "Música de los Reels". Sin Canva.
+
+## Aviso de visibilidad (petición de Estefanía, 02/11/2026)
+Cada lunes, tras el análisis semanal de Metricool, si las temáticas, las horas o el formato no están dando visibilidad suficiente (alcance estancado o a la baja, guardados y compartidos casi nulos, una franja horaria o un eje que rinde claramente peor), dilo en la notificación con una propuesta concreta de cambio (qué cambiar, por qué y con qué datos). No cambies el plan por tu cuenta: propón y espera a que Estefanía lo confirme.
