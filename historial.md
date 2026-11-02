@@ -24,3 +24,6 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-10-31 | B | ACTUALIDAD | Imprevisibilidad en la infancia | Niños más protegidos: saber qué viene | automático, Reel 20:30. Fuente: Glynn et al., Nature Mental Health (2026), vía Infocop (27/10/2026)
 2026-11-01 | A | PSICOLOGÍA DE ADULTOS | Rumiación | ¿No paras de darle vueltas? | automático
 2026-11-01 | B | ACTUALIDAD | Videojuegos y TCC escolar | Videojuegos: lo que sí funciona en el cole | automático, Reel 20:30. Fuente: Lindenberg et al., JAMA Network Open (2026), vía Infocop (28/10/2026)
+2026-11-02 | ANALISIS | Semana 26/10–01/11 (IG): guardados casi nulos (1 en eSports) y compartidos 1 en cambio de hora y en 3 señales logopedia. Más alcance: cambio de hora (97), disfonía (79), rabietas y TDAH (60). Ganan los ganchos-pregunta sobre un problema cotidiano («¿Ronquera que no se va?», «¿Te cuesta arrancar…?») + señales + cuándo consultar. Reutilizar ese formato y reforzar el «guárdalo» con valor práctico (listas/pasos).
+2026-11-02 | A | EVALUACIÓN NEUROPSICOLÓGICA | Dislexia («Lo que dice la evidencia») | ¿Lee despacio y se salta palabras? | automático; gancho-pregunta cotidiana según análisis
+2026-11-02 | B | ACTUALIDAD | Música y cerebro | Música: por qué te emociona tanto | automático, Reel 20:30. Fuente: Robert Zatorre en «Speaking of Psychology» (APA), vía Infocop (30/10/2026)

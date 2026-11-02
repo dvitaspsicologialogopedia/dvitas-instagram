@@ -1,0 +1,10 @@
+{"fondo": "azul", "eje": "EVALUACIÓN NEUROPSICOLÓGICA", "tema": "DISLEXIA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Lee despacio y *se salta* palabras?", "subtitulo": "Lo que dice la evidencia sobre la dislexia."},
+  {"tipo": "cita", "cita": "La dislexia *no es falta* de inteligencia ni de esfuerzo"},
+  {"tipo": "lista", "titulo": "Señales que merecen una *valoración*", "numerada": true, "items": ["Lee **muy despacio** y con mucho esfuerzo", "Le cuesta **unir letras y sonidos**", "**Confunde letras** parecidas más allá de 2.º", "**Evita leer** en voz alta", "Escribe con **muchas faltas** aunque estudie"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si es dislexia, escribe las letras al revés.", "realidad": "Invertir letras es frecuente al aprender. La clave es una **dificultad persistente** para leer con precisión y fluidez."},
+  {"tipo": "tarjetas", "titulo": "Qué valora una *evaluación*", "tarjetas": [["Conciencia fonológica", "Cómo procesa los sonidos"], ["Lectura y escritura", "Precisión, fluidez, comprensión"], ["Atención y memoria", "Cómo aprende y retiene"], ["Capacidad intelectual", "Su perfil completo"]]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Leed juntos sin prisa", "Un rato corto y agradable cada día."], ["Habla con su tutor", "Comparte lo que ves en casa."], ["Pide una valoración", "Detectarlo pronto cambia el camino."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

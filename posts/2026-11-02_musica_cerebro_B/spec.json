@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "MÚSICA Y CEREBRO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Música: por qué *te emociona* tanto", "subtitulo": "Lo que explica la neurociencia."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["Robert Zatorre", "neurocientífico de la Universidad McGill"], ["Pódcast de la APA", "Speaking of Psychology"], ["Infocop", "lo resume el 30 de octubre"], ["La pregunta", "por qué nos emociona la música"]]},
+  {"tipo": "lista", "titulo": "Qué *significa*", "items": ["Activa el **circuito de recompensa** del cerebro", "La **dopamina** interviene en ese placer", "Gusta el equilibrio entre **previsión y sorpresa**", "Unida a un momento, **despierta recuerdos**"]},
+  {"tipo": "cita", "cita": "A un 2 % no le emociona la música: *no es necesariamente un trastorno*"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Crea su banda sonora", "Canciones ligadas a momentos importantes."], ["Compártela en familia", "Ponedla juntos y hablad de esos recuerdos."], ["Consulta si hay cambios", "Memoria o ánimo que cambian: valoración."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
