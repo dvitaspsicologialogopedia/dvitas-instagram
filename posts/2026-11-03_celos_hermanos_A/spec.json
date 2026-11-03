@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA INFANTIL", "tema": "CELOS ENTRE HERMANOS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Se pelean por *tu atención*?", "subtitulo": "Celos entre hermanos: qué es normal."},
+  {"tipo": "cita", "cita": "Los celos no son maldad: *son miedo a perder su lugar*"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si los trato exactamente igual, no habrá celos.", "realidad": "Cada hijo necesita **lo suyo**: igual no siempre es justo."},
+  {"tipo": "lista", "titulo": "Cuándo merece una *consulta*", "items": ["Agresiones **frecuentes** o que van a más", "**Regresiones** que no ceden: pis, habla de bebé", "Tristeza o enfado **casi a diario**", "Cambios en **sueño, comida o colegio**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Ratos a solas", "10 minutos solo con cada hijo."], ["Pon nombre a lo que siente", "\"Te enfada compartirme, lo entiendo\"."], ["Evita comparar", "Ni para bien ni para mal."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

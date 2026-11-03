@@ -27,3 +27,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-02 | ANALISIS | Semana 26/10–01/11 (IG): guardados casi nulos (1 en eSports) y compartidos 1 en cambio de hora y en 3 señales logopedia. Más alcance: cambio de hora (97), disfonía (79), rabietas y TDAH (60). Ganan los ganchos-pregunta sobre un problema cotidiano («¿Ronquera que no se va?», «¿Te cuesta arrancar…?») + señales + cuándo consultar. Reutilizar ese formato y reforzar el «guárdalo» con valor práctico (listas/pasos).
 2026-11-02 | A | EVALUACIÓN NEUROPSICOLÓGICA | Dislexia («Lo que dice la evidencia») | ¿Lee despacio y se salta palabras? | automático; gancho-pregunta cotidiana según análisis
 2026-11-02 | B | ACTUALIDAD | Música y cerebro | Música: por qué te emociona tanto | automático, Reel 20:30. Fuente: Robert Zatorre en «Speaking of Psychology» (APA), vía Infocop (30/10/2026)
+2026-11-03 | A | PSICOLOGÍA INFANTIL | Celos entre hermanos | ¿Se pelean por tu atención? | automático; gancho-pregunta cotidiana
+2026-11-03 | B | ACTUALIDAD | Bienestar emocional del profesorado | ¿Quién cuida a los profes? | automático, Reel 20:30. Fuente: COP Bizkaia y EHU, vía Infocop (30/10/2026)

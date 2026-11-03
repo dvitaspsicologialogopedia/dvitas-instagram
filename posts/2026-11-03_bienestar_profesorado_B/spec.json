@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "BIENESTAR DOCENTE", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Quién cuida a *los profes*?", "subtitulo": "Un estudio con 908 docentes."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["908 docentes", "de todas las etapas educativas"], ["COP Bizkaia y EHU", "cuestionario anónimo"], ["Estrés moderado", "2,94 sobre 5"], ["Desgaste", "3,14 sobre 5"]]},
+  {"tipo": "lista", "titulo": "Qué *significa*", "items": ["Pesa sobre todo la **falta de recursos**", "Solo el **21 %** tiene formación socioemocional", "Con esa formación hay **menos estrés**", "Sentirse capaz **protege**"]},
+  {"tipo": "cita", "cita": "No es riesgo generalizado: *es una señal de alerta* para prevenir"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Si eres docente", "Pide formación y apoyo; no lo cargues solo."], ["Si eres familia", "Una tutoría colaborativa, no de reproche."], ["Si el malestar sigue", "Consulta con un profesional."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
