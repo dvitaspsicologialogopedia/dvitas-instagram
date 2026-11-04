@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "LOGOPEDIA INFANTIL", "tema": "\"YA HABLARÁ\"", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Te dicen que *«ya hablará»*?", "subtitulo": "Cuándo esperar y cuándo consultar."},
+  {"tipo": "cita", "cita": "Esperar sin observar *no es prudencia*: es perder tiempo valioso"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Cada niño tiene su ritmo: ya hablará solo.", "realidad": "Hay ritmos distintos, pero también **hitos orientativos**. Si no aparecen, conviene valorar."},
+  {"tipo": "lista", "titulo": "Señales para *consultar*", "numerada": true, "items": ["A los **12 meses** no balbucea ni señala", "A los **18 meses** no dice palabras sueltas", "A los **2 años** no une dos palabras", "A los **3 años** cuesta mucho entenderle", "Pierde palabras que **ya decía**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Narra el día", "Pon palabras a lo que hacéis juntos."], ["Espera su turno", "Deja silencios para que responda."], ["Amplía, no corrijas", "Si dice «agua», tú: «quieres agua fría»."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

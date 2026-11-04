@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "SALUD DEL SUEÑO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Dormir bien, *cada vez más difícil*", "subtitulo": "Lo advierten expertos europeos del sueño."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["Informe europeo", "European Sleep Research Society"], ["Publicado", "Journal of Sleep Research"], ["Mensaje", "El sueño, problema de salud pública"], ["Piden", "Acción coordinada"]]},
+  {"tipo": "lista", "titulo": "Qué está *robando* el sueño", "items": ["**Ruido, luz** y calor nocturno", "Cultura **24 horas** y turnos", "**Pantallas** y conexión constante", "**Bulos** sobre sueño en redes", "Obsesión por el **sueño perfecto**"]},
+  {"tipo": "cita", "cita": "Medir el sueño a todas horas *también puede quitarte el sueño*"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Horario estable", "Acuéstate y levántate a horas parecidas."], ["Desconecta antes", "Sin pantallas ni correos al final del día."], ["Si dura semanas", "Consulta con un profesional del sueño."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

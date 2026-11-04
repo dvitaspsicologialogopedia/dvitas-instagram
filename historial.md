@@ -29,3 +29,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-02 | B | ACTUALIDAD | Música y cerebro | Música: por qué te emociona tanto | automático, Reel 20:30. Fuente: Robert Zatorre en «Speaking of Psychology» (APA), vía Infocop (30/10/2026)
 2026-11-03 | A | PSICOLOGÍA INFANTIL | Celos entre hermanos | ¿Se pelean por tu atención? | automático; gancho-pregunta cotidiana
 2026-11-03 | B | ACTUALIDAD | Bienestar emocional del profesorado | ¿Quién cuida a los profes? | automático, Reel 20:30. Fuente: COP Bizkaia y EHU, vía Infocop (30/10/2026)
+2026-11-04 | A | LOGOPEDIA INFANTIL | "Ya hablará" (hitos y señales) | ¿Te dicen que «ya hablará»? | automático; semana de logopedia infantil
+2026-11-04 | B | ACTUALIDAD | Salud del sueño en Europa | Dormir bien, cada vez más difícil | automático, Reel 20:30. Fuente: European Sleep Research Society, Journal of Sleep Research, vía Infosalus/Europa Press (01/11/2026)
