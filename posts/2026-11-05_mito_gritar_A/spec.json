@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "MITOS VS REALIDAD", "tema": "COMUNICACIÓN EN CASA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Solo te hace caso *si gritas*?", "subtitulo": "Mito de la semana: «gritar funciona»."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si le grito, por fin me escucha.", "realidad": "Obedece **por miedo un momento**, pero aprende poco y el grito pierde efecto."},
+  {"tipo": "cita", "cita": "Cuanto más alto hablamos, *menos nos escuchan*"},
+  {"tipo": "lista", "titulo": "Por qué el grito *no funciona*", "items": ["Activa **alerta**, no comprensión", "Se acostumbra y hay que **subir más**", "Enseña a gritar cuando hay **enfado**", "Daña la **confianza** para contarte cosas"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Acércate", "Míralo a los ojos antes de hablar."], ["Frase corta", "Una instrucción clara y en positivo."], ["Si gritas, repara", "Pide perdón: también enseña."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

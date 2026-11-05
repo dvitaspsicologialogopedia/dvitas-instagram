@@ -31,3 +31,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-03 | B | ACTUALIDAD | Bienestar emocional del profesorado | ¿Quién cuida a los profes? | automático, Reel 20:30. Fuente: COP Bizkaia y EHU, vía Infocop (30/10/2026)
 2026-11-04 | A | LOGOPEDIA INFANTIL | "Ya hablará" (hitos y señales) | ¿Te dicen que «ya hablará»? | automático; semana de logopedia infantil
 2026-11-04 | B | ACTUALIDAD | Salud del sueño en Europa | Dormir bien, cada vez más difícil | automático, Reel 20:30. Fuente: European Sleep Research Society, Journal of Sleep Research, vía Infosalus/Europa Press (01/11/2026)
+2026-11-05 | A | MITOS VS REALIDAD (FAMILIA) | Comunicación en casa: gritar | ¿Solo te hace caso si gritas? | automático, Mito de la semana
+2026-11-05 | B | ACTUALIDAD | Día Internacional contra la Violencia y el Acoso en la Escuela | Acoso escolar: señales que no ves | automático, Reel 20:30. Fuente: Infocop (05/11/2026), datos Fundación ANAR y Fundación Mutua Madrileña (curso 2025-2026)

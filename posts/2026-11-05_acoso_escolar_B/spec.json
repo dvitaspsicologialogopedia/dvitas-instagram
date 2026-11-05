@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "ACOSO ESCOLAR", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Acoso escolar: *señales que no ves*", "subtitulo": "Hoy es el Día Internacional contra el Acoso en la Escuela."},
+  {"tipo": "tarjetas", "titulo": "Qué *dicen los datos*", "tarjetas": [["14,1 %", "del alumnado lo vive o lo ve de cerca"], ["12,3 %", "era el dato del curso anterior"], ["Más de 1 año", "dura más de 1 de cada 4 casos presenciales"], ["Ciberacoso", "sigue fuera del colegio, hasta casa"]]},
+  {"tipo": "lista", "titulo": "Señales para estar *atentos*", "items": ["**Cambios bruscos** de conducta", "Se **aísla** o pierde amigos", "**Duerme mal** o le duele la tripa", "**No quiere ir** al colegio", "Bajan las **notas** o el interés"], "aviso": true},
+  {"tipo": "cita", "cita": "Normalizar insultos y humillaciones *es lo que impide verlo*"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Pregunta y escucha", "Sin juzgar ni minimizar lo que cuenta."], ["Habla con el centro", "Pide que activen su protocolo."], ["Busca apoyo", "Un psicólogo puede valorar y acompañar."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
