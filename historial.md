@@ -33,4 +33,4 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-04 | B | ACTUALIDAD | Salud del sueño en Europa | Dormir bien, cada vez más difícil | automático, Reel 20:30. Fuente: European Sleep Research Society, Journal of Sleep Research, vía Infosalus/Europa Press (01/11/2026)
 2026-11-05 | A | MITOS VS REALIDAD (FAMILIA) | Comunicación en casa: gritar | ¿Solo te hace caso si gritas? | automático, Mito de la semana
 2026-11-05 | B | ACTUALIDAD | Día Internacional contra la Violencia y el Acoso en la Escuela | Acoso escolar: señales que no ves | automático, Reel 20:30. Fuente: Infocop (05/11/2026), datos Fundación ANAR y Fundación Mutua Madrileña (curso 2025-2026)
-2026-11-09 | ANUNCIO | MARCA | Cambio de comunicación y estética | Algo está cambiando. | a petición de Estefanía; diseño propio (3 slides), 21:00
+2026-11-05 | ANUNCIO | MARCA | Cambio de comunicación y estética | Algo está cambiando. | a petición de Estefanía; diseño propio (3 slides), publicado 21:20
