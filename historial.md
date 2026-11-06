@@ -34,3 +34,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-05 | A | MITOS VS REALIDAD (FAMILIA) | Comunicación en casa: gritar | ¿Solo te hace caso si gritas? | automático, Mito de la semana
 2026-11-05 | B | ACTUALIDAD | Día Internacional contra la Violencia y el Acoso en la Escuela | Acoso escolar: señales que no ves | automático, Reel 20:30. Fuente: Infocop (05/11/2026), datos Fundación ANAR y Fundación Mutua Madrileña (curso 2025-2026)
 2026-11-05 | ANUNCIO | MARCA | Cambio de comunicación y estética | Algo está cambiando. | a petición de Estefanía; diseño propio (3 slides), publicado 21:20
+2026-11-06 | A | TRASTORNOS DEL SUEÑO | Ronquidos infantiles («3 señales…») | ¿Tu hijo ronca cada noche? | automático; gancho-pregunta cotidiana
+2026-11-06 | B | ACTUALIDAD | Primer móvil y edad (Control Z) | Primer móvil: la edad no basta | automático, Reel 20:30. Fuente: Infocop, entrevista a José Antonio Luengo (06/11/2026)

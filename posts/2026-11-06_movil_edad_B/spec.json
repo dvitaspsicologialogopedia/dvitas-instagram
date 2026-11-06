@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "MÓVIL Y EDAD", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Primer móvil: *la edad no basta*", "subtitulo": "Lo que proponen los psicólogos esta semana."},
+  {"tipo": "tarjetas", "titulo": "Qué *ha pasado*", "tarjetas": [["Control Z", "Plataforma con el COP y 14 sociedades científicas"], ["Su propuesta", "Sin smartphone libre antes de los 16"], ["Ojo", "No es una frontera biológica exacta"], ["Además", "Revisar autoplay, scroll infinito y notificaciones"]]},
+  {"tipo": "cita", "cita": "Regular la edad es necesario, *pero nunca va a ser suficiente*"},
+  {"tipo": "lista", "titulo": "Qué significa *para tu familia*", "items": ["Poner **límites razonables**", "**Hablar** de lo que pasa en redes", "**Compartir** algunos usos con ellos", "Enseñar a **detenerse**", "Ser un **modelo coherente**"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Mira tu propio uso", "Aprenden más de lo que ven."], ["Una pantalla compartida", "Ved juntos algo de lo que usa."], ["Planes sin pantalla", "Deporte, biblioteca o parque."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

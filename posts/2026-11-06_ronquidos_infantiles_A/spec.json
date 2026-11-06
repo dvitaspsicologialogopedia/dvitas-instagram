@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "TRASTORNOS DEL SUEÑO", "tema": "RONQUIDOS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Tu hijo *ronca* cada noche?", "subtitulo": "3 señales para consultar."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Roncar es normal en los niños.", "realidad": "Roncar algo con un catarro es frecuente. **Roncar casi cada noche** merece una valoración."},
+  {"tipo": "lista", "titulo": "3 señales para *consultar*", "numerada": true, "items": ["**Pausas** al respirar o se queda sin aire", "Duerme con la **boca abierta** y muy inquieto", "De día: **cansancio**, irritabilidad o poca atención"], "aviso": true},
+  {"tipo": "cita", "cita": "Un niño que duerme mal *no siempre parece cansado*: a veces parece movido"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Observa varias noches", "Anota ronquidos, pausas y postura."], ["Graba un minuto", "Un vídeo corto ayuda mucho en consulta."], ["Consulta", "Pediatra o especialista en sueño."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
