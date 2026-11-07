@@ -36,3 +36,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-05 | ANUNCIO | MARCA | Cambio de comunicación y estética | Algo está cambiando. | a petición de Estefanía; diseño propio (3 slides), publicado 21:20
 2026-11-06 | A | TRASTORNOS DEL SUEÑO | Ronquidos infantiles («3 señales…») | ¿Tu hijo ronca cada noche? | automático; gancho-pregunta cotidiana
 2026-11-06 | B | ACTUALIDAD | Primer móvil y edad (Control Z) | Primer móvil: la edad no basta | automático, Reel 20:30. Fuente: Infocop, entrevista a José Antonio Luengo (06/11/2026)
+2026-11-07 | A | PAREJAS | Crianza en pareja (educar en equipo) | ¿Discutís por cómo educar a los niños? | automático; gancho-pregunta cotidiana
+2026-11-07 | B | ACTUALIDAD | Prevención del odio online en adolescentes | Odio en redes: se puede prevenir | automático, Reel 20:30. Fuente: Infocop (05/11/2026); Cedena-de-Lucas et al., International Journal of Educational Research (2026), UGR y Plataforma del Voluntariado

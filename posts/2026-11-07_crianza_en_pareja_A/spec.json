@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PAREJAS", "tema": "CRIANZA EN PAREJA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Discutís por *cómo educar* a los niños?", "subtitulo": "Educar en equipo sin pensar igual."},
+  {"tipo": "cita", "cita": "No tenéis que pensar igual: *tenéis que remar juntos*"},
+  {"tipo": "lista", "titulo": "Señales de que *no vais en equipo*", "items": ["Uno pone **límites** y el otro los **quita**", "Discutís de normas **delante de ellos**", "Los niños **piden al otro** lo que uno negó", "Uno se siente **el poli malo** de casa", "Las decisiones se toman **sin hablarlas**"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si no estamos de acuerdo en todo, lo hacemos mal.", "realidad": "Los desacuerdos son normales. Lo que ayuda es **hablarlos a solas** y dar a los niños **un mensaje común**."},
+  {"tipo": "pasos", "titulo": "Lo que sí podéis hacer *hoy*", "pasos": [["Elegid 3 normas básicas", "Las que no se negocian en casa."], ["Pausa antes de responder", "«Lo hablo con papá/mamá y te digo»."], ["Revisión semanal", "10 minutos a solas: qué funciona y qué no."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a tu pareja"}
+ ]}

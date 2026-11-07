@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "ODIO EN REDES", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Odio en redes: *se puede prevenir*", "subtitulo": "Un estudio español con alumnos de 13 años."},
+  {"tipo": "tarjetas", "titulo": "Qué *ha pasado*", "tarjetas": [["Quién", "Universidad de Granada y Plataforma del Voluntariado"], ["Con quién", "74 alumnos de 2.º de ESO"], ["Cómo", "7 meses de talleres y campañas propias"], ["Resultado", "Mejoras moderadas y prometedoras"]]},
+  {"tipo": "cita", "cita": "Aprender a *reconocer y responder* al odio online puede ser clave"},
+  {"tipo": "lista", "titulo": "Qué significa *para tu familia*", "items": ["El respeto online **también se aprende**", "Analizar mensajes **con espíritu crítico** ayuda", "Implicarles **en la solución** funciona mejor", "Saber **cómo reaccionar** les protege"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Mirad juntos un comentario", "¿Qué pretende? ¿A quién hace daño?"], ["Pactad qué hacer", "No compartir, no responder con odio, reportar."], ["Abre la puerta", "Que sepa que puede contártelo sin castigo."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
