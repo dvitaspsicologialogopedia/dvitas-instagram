@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "MENOS LUZ", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Menos luz, *¿menos ánimo?*", "subtitulo": "Lo que pasa en noviembre y qué hacer."},
+  {"tipo": "tarjetas", "titulo": "Qué *está pasando*", "tarjetas": [["Días más cortos", "Anochece antes de las 18:30"], ["Menos luz natural", "Sobre todo por la mañana"], ["Reloj interno", "Se desajusta el ritmo sueño-vigilia"], ["En algunas personas", "Más cansancio y bajón"]]},
+  {"tipo": "cita", "cita": "Notar el cambio de estación es normal. *Que te paralice, no*"},
+  {"tipo": "lista", "titulo": "Cuándo *consultar*", "items": ["Tristeza o apatía **casi todos los días**", "Dura **más de dos semanas**", "Duermes y comes **mucho más o menos**", "Afecta a tu **trabajo o tu casa**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Luz por la mañana", "20-30 min al aire libre."], ["Muévete", "Un paseo a diario cuenta."], ["Horarios fijos", "Acuéstate y levántate a la misma hora."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

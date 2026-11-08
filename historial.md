@@ -38,3 +38,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-06 | B | ACTUALIDAD | Primer móvil y edad (Control Z) | Primer móvil: la edad no basta | automático, Reel 20:30. Fuente: Infocop, entrevista a José Antonio Luengo (06/11/2026)
 2026-11-07 | A | PAREJAS | Crianza en pareja (educar en equipo) | ¿Discutís por cómo educar a los niños? | automático; gancho-pregunta cotidiana
 2026-11-07 | B | ACTUALIDAD | Prevención del odio online en adolescentes | Odio en redes: se puede prevenir | automático, Reel 20:30. Fuente: Infocop (05/11/2026); Cedena-de-Lucas et al., International Journal of Educational Research (2026), UGR y Plataforma del Voluntariado
+2026-11-08 | A | PSICOLOGÍA DE ADULTOS | Autoestima (voz interna crítica) | ¿Te hablas peor que a nadie? | automático; gancho-pregunta cotidiana
+2026-11-08 | B | ACTUALIDAD | Menos luz y estado de ánimo (temporada) | Menos luz, ¿menos ánimo? | automático, Reel 20:30. Sin noticia válida nueva en 7 días (Infocop ya cubierto) → tema de temporada. Fuente: DSM-5-TR (APA, 2022), especificador «con patrón estacional»

@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA DE ADULTOS", "tema": "AUTOESTIMA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Te hablas *peor que a nadie*?", "subtitulo": "Tu voz interna también se puede entrenar."},
+  {"tipo": "cita", "cita": "Nunca le dirías a un amigo *lo que te dices a ti*"},
+  {"tipo": "lista", "titulo": "Señales de una autoestima *baja*", "items": ["Te **criticas** por cada error", "Te cuesta **aceptar un elogio**", "Te **comparas** todo el tiempo", "Dices **sí** aunque quieras decir no", "Sientes que **no es suficiente**"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Tener autoestima es pensar que eres el mejor.", "realidad": "Es **tratarte con respeto** también cuando fallas."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Cambia el tono", "Háblate como a alguien que quieres."], ["Anota 3 logros", "Pequeños también cuentan."], ["Pon un límite", "Un no sencillo, sin justificarte."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
