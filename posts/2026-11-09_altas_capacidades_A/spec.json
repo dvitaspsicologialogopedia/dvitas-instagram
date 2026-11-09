@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "EVALUACIÓN NEUROPSICOLÓGICA", "tema": "ALTAS CAPACIDADES", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Se aburre en clase y *suspende?*", "subtitulo": "Altas capacidades: lo que dice la evidencia."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si tiene altas capacidades, sacará buenas notas.", "realidad": "Muchos **pasan desapercibidos**: se aburren, desconectan o se esfuerzan en ocultarlo."},
+  {"tipo": "lista", "titulo": "Señales que merecen una *valoración*", "numerada": true, "items": ["Vocabulario **rico y precoz**", "Preguntas **muy profundas** para su edad", "Aprende **muy rápido** y se aburre con la repetición", "**Intensidad** emocional o gran sentido de la justicia", "Notas **por debajo** de lo que parece capaz"], "aviso": true},
+  {"tipo": "tarjetas", "titulo": "Qué mira una *evaluación*", "tarjetas": [["Capacidad intelectual", "Razonamiento y memoria"], ["Creatividad", "Ideas originales"], ["Atención", "Y funciones ejecutivas"], ["Emociones", "Cómo se siente en el aula"]]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Observa", "Anota qué le apasiona y qué le aburre."], ["Habla con el tutor", "Compara lo que veis en casa y en clase."], ["Evita etiquetas", "Ni «genio» ni «vago»: primero, conocerle."]]},
+  {"tipo": "cierre", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

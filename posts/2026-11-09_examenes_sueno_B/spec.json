@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "EXÁMENES Y SUEÑO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Exámenes: *dormir también es estudiar*", "subtitulo": "Llega la primera evaluación del curso."},
+  {"tipo": "tarjetas", "titulo": "Qué *está pasando*", "tarjetas": [["Primera evaluación", "Exámenes de noviembre y diciembre"], ["Más horas de estudio", "Muchas veces, robadas al sueño"], ["Pantallas de noche", "Retrasan la hora de dormir"], ["Más nervios", "Y peor descanso"]]},
+  {"tipo": "cita", "cita": "Mientras duerme, su cerebro *ordena lo que ha estudiado*"},
+  {"tipo": "lista", "titulo": "Cuánto *necesitan dormir*", "items": ["De 6 a 12 años: **9 a 12 horas**", "De 13 a 18 años: **8 a 10 horas**", "Trasnochar para estudiar **empeora la memoria**", "Horarios estables, **también el fin de semana**"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Planifica", "Repartir el estudio evita la noche anterior."], ["Pantallas fuera", "Una hora antes de dormir."], ["Pausas y movimiento", "Bloques cortos con descansos."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
