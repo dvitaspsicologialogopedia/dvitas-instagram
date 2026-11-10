@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA INFANTIL", "tema": "SEÑALES EMOCIONALES", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Está más *irritable* o más callado?", "subtitulo": "Señales emocionales que merecen atención."},
+  {"tipo": "cita", "cita": "Muchos niños no dicen *«estoy mal»*: lo muestran"},
+  {"tipo": "lista", "titulo": "Señales que conviene *observar*", "numerada": true, "items": ["Cambios de **sueño o apetito**", "**Irritabilidad** o llanto frecuente", "Deja de disfrutar de **lo que le gustaba**", "**Dolores** de tripa o cabeza sin causa médica", "Se **aísla** o evita el colegio"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Es una etapa, ya se le pasará.", "realidad": "Muchas veces sí. Pero si dura **más de unas semanas** o afecta a su día a día, merece una valoración."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Observa y anota", "Qué cambia, desde cuándo y dónde."], ["Abre la puerta", "«Te noto distinto, ¿me cuentas?» sin presionar."], ["Habla con el tutor", "Compara lo que veis en casa y en clase."]]},
+  {"tipo": "cierre", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

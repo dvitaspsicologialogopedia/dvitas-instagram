@@ -1,0 +1,8 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "BARÓMETRO SANITARIO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Casi *1 de cada 5* necesitó ayuda", "subtitulo": "Salud mental: Barómetro Sanitario 2026."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["El **17,8 %** necesitó consultar por salud mental en el último año", "Se refiere a un problema o a **malestar emocional**", "El **52,5 %** dice que le cuesta saber **cómo actuar**"]},
+  {"tipo": "cita", "cita": "Pedir ayuda no es exagerar: *es cuidarse a tiempo*"},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Ponle nombre", "¿Qué sientes y desde cuándo?"], ["Mira el impacto", "¿Afecta al sueño, al trabajo o a casa?"], ["Da el paso", "Tu médico de familia o un psicólogo sanitario."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
