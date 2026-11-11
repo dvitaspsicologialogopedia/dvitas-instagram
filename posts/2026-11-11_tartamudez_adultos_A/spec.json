@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "LOGOPEDIA DE ADULTOS", "tema": "TARTAMUDEZ", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Te *bloqueas* al hablar?", "subtitulo": "Tartamudez en adultos: también tiene abordaje."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "La tartamudez es cosa de nervios.", "realidad": "Es una **alteración de la fluidez** del habla. Los nervios pueden **empeorarla**, pero no la causan."},
+  {"tipo": "lista", "titulo": "Señales que merecen una *valoración*", "numerada": true, "items": ["**Repetir** sílabas o sonidos al empezar", "**Alargar** sonidos: «mmmmañana»", "**Bloqueos**: la palabra no sale", "**Cambiar palabras** para evitar las difíciles", "**Evitar** llamadas, reuniones o pedir en un bar"], "aviso": true},
+  {"tipo": "cita", "cita": "Lo que más pesa no es atascarse: *es todo lo que se evita* por miedo a hacerlo"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Anota", "En qué situaciones te atascas o evitas hablar."], ["No te escondas", "Decir «a veces tartamudeo» suele aliviar la tensión."], ["Consulta", "Una valoración logopédica orienta el tratamiento."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

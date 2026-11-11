@@ -45,3 +45,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-09 | B | ACTUALIDAD | Exámenes de la primera evaluación y sueño (temporada) | Exámenes: dormir también es estudiar | automático, Reel 20:30. Sin noticia válida nueva en 7 días → tema de temporada. Fuente: AASM avalada por la AAP (Paruthi et al., J Clin Sleep Med, 2016)
 2026-11-10 | A | PSICOLOGÍA INFANTIL | Señales de alerta emocional | ¿Está más irritable o más callado? | automático; formato ganador (gancho-pregunta + señales + mito + pasos)
 2026-11-10 | B | ACTUALIDAD | Barómetro Sanitario 2026 y salud mental | Casi 1 de cada 5 necesitó ayuda | automático, Reel 20:30. Fuente: Barómetro Sanitario 2026, 2.ª oleada (Ministerio de Sanidad y CIS), vía Infocop (10/11/2026)
+2026-11-11 | A | LOGOPEDIA DE ADULTOS | Tartamudez adulta | ¿Te bloqueas al hablar? | automático; formato ganador (gancho-pregunta + mito + señales + pasos)
+2026-11-11 | B | ACTUALIDAD | Psicólogos educativos en institutos (ansiedad en la ESO) | Más alumnos piden ayuda en el instituto | automático, Reel 20:30. Fuente: Memoria Convivèxit (Conselleria de Educación de Baleares), vía Europa Press en Última Hora (09/11/2026)

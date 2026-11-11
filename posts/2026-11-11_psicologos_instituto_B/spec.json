@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "PSICÓLOGOS EN EL INSTITUTO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Más alumnos *piden ayuda* en el instituto", "subtitulo": "Psicólogos educativos: lo que dicen los datos."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["En Baleares, **79 psicólogos** en centros educativos atendieron a **20.225 alumnos**", "Las atenciones individuales subieron un **31 %**", "Más demanda en **1.º, 2.º y 3.º de ESO**"]},
+  {"tipo": "tarjetas", "titulo": "Lo que más *preocupa*", "tarjetas": [["Ansiedad", "El motivo más frecuente"], ["Relaciones", "Amigos y compañeros"], ["Familia", "Problemas en casa"], ["Exámenes", "Estrés y presión"]]},
+  {"tipo": "cita", "cita": "Que pidan ayuda *no es una mala noticia*: es una puerta abierta"},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Pregunta sin juzgar", "«¿Cómo vas de verdad?»"], ["Mira cambios", "Sueño, notas, amigos, humor."], ["Habla con el centro", "Tutor u orientador."], ["Si se mantiene", "Consulta con un psicólogo sanitario."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
