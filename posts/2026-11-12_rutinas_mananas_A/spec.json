@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "MITOS VS REALIDAD", "tema": "RUTINAS EN CASA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Cada mañana es una *batalla*?", "subtitulo": "Mito de la semana: las rutinas en casa."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Las rutinas les quitan libertad y los hacen rígidos.", "realidad": "Saber qué viene después **da seguridad** y les permite hacer más cosas **solos**."},
+  {"tipo": "lista", "titulo": "Por qué las mañanas se *atascan*", "items": ["**Demasiadas órdenes** seguidas", "Tareas **sin un orden fijo**", "**Prisa**: todo a última hora", "**Pantallas** antes de salir"]},
+  {"tipo": "cita", "cita": "Una rutina no es un horario militar: *es un mapa* para que sepa qué toca"},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Prepara la noche antes", "Ropa y mochila listas."], ["Haz un mapa visual", "3–4 dibujos con los pasos de la mañana."], ["Una orden cada vez", "Y reconoce cada paso logrado."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

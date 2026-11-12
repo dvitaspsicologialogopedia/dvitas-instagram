@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "LENGUAJE Y ALZHÉIMER", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Olvidar palabras es *alzhéimer*?", "subtitulo": "Lo que dice una nueva revisión científica."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["Una revisión en **Nature Reviews Psychology** compara el lenguaje en el envejecimiento sano y en el alzhéimer", "**Más del 35 %** de las personas con alzhéimer leve tienen alteraciones del habla y del lenguaje", "Algunos cambios pueden aparecer **años antes** de la demencia"]},
+  {"tipo": "tarjetas", "titulo": "Normal vs *a valorar*", "tarjetas": [["Envejecer", "Tardar en encontrar una palabra"], ["Envejecer", "Lo tengo en la punta de la lengua"], ["A valorar", "Cuesta nombrar objetos"], ["A valorar", "Confunde palabras: mesa por silla"]]},
+  {"tipo": "cita", "cita": "Una palabra que no sale *no es un diagnóstico*"},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Observa", "Si los fallos aumentan y se suman a olvidos."], ["No etiquetes", "Un despiste aislado es normal con la edad."], ["Pide evaluación", "Lenguaje, memoria y atención se valoran juntos."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

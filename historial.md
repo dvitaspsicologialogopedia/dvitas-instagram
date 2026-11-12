@@ -47,3 +47,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-10 | B | ACTUALIDAD | Barómetro Sanitario 2026 y salud mental | Casi 1 de cada 5 necesitó ayuda | automático, Reel 20:30. Fuente: Barómetro Sanitario 2026, 2.ª oleada (Ministerio de Sanidad y CIS), vía Infocop (10/11/2026)
 2026-11-11 | A | LOGOPEDIA DE ADULTOS | Tartamudez adulta | ¿Te bloqueas al hablar? | automático; formato ganador (gancho-pregunta + mito + señales + pasos)
 2026-11-11 | B | ACTUALIDAD | Psicólogos educativos en institutos (ansiedad en la ESO) | Más alumnos piden ayuda en el instituto | automático, Reel 20:30. Fuente: Memoria Convivèxit (Conselleria de Educación de Baleares), vía Europa Press en Última Hora (09/11/2026)
+2026-11-12 | A | MITOS VS REALIDAD (FAMILIA) | Rutinas de mañana | ¿Cada mañana es una batalla? | automático, Mito de la semana; formato ganador (gancho-pregunta + mito + pasos)
+2026-11-12 | B | ACTUALIDAD | Lenguaje y alzhéimer | ¿Olvidar palabras es alzhéimer? | automático, Reel 20:30. Fuente: García, A. M., Nature Reviews Psychology (2026), vía Infocop (12/11/2026)
