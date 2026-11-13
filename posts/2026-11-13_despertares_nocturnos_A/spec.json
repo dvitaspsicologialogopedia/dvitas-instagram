@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "TRASTORNOS DEL SUEÑO", "tema": "DESPERTARES", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Se despierta *cada noche*?", "subtitulo": "3 señales para consultar."},
+  {"tipo": "cita", "cita": "Despertarse de noche es normal. *Lo importante es cómo vuelve a dormirse*"},
+  {"tipo": "lista", "titulo": "3 señales para *consultar*", "numerada": true, "items": ["Le cuesta mucho **volver a dormirse** casi cada noche", "De día está **cansado**, irritable o le cuesta atender", "Ronca, se mueve mucho o despierta con **miedos intensos**"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si se despierta, es que está malacostumbrado.", "realidad": "Todos tenemos **despertares breves** entre ciclos de sueño. La clave es aprender a **volver a dormirse**."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Misma rutina, misma hora", "Baño, cuento y luz baja cada noche."], ["Que se duerma en su cama", "Así reconoce el sitio al despertar."], ["Anota dos semanas", "Despertares, horas y cómo está de día."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

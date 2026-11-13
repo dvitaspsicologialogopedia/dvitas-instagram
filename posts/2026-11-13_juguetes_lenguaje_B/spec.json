@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "JUGUETES Y LENGUAJE", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "El mejor juguete *no tiene pantalla*", "subtitulo": "Lo que dice la pediatría antes de las compras navideñas."},
+  {"tipo": "lista", "titulo": "Qué *dice* la pediatría", "items": ["Los juguetes **sencillos** favorecen el juego y el lenguaje", "Jugar **con un adulto** vale más que cualquier juguete", "Lo digital **no sustituye** la interacción"]},
+  {"tipo": "cita", "cita": "El juguete que más palabras enseña *eres tú*"},
+  {"tipo": "tarjetas", "titulo": "Juguetes que *estimulan* el lenguaje", "tarjetas": [["Cuentos", "Para nombrar y preguntar"], ["Bloques", "Para planificar y contar"], ["Cocinitas y muñecos", "Para el juego simbólico"], ["Juegos de mesa", "Para turnos y normas"]]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Menos es más", "Pocos juguetes, bien elegidos."], ["Juega 10 minutos", "Sin móvil, siguiendo su idea."], ["Pon palabras al juego", "Narra lo que hacéis juntos."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -49,3 +49,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-11 | B | ACTUALIDAD | Psicólogos educativos en institutos (ansiedad en la ESO) | Más alumnos piden ayuda en el instituto | automático, Reel 20:30. Fuente: Memoria Convivèxit (Conselleria de Educación de Baleares), vía Europa Press en Última Hora (09/11/2026)
 2026-11-12 | A | MITOS VS REALIDAD (FAMILIA) | Rutinas de mañana | ¿Cada mañana es una batalla? | automático, Mito de la semana; formato ganador (gancho-pregunta + mito + pasos)
 2026-11-12 | B | ACTUALIDAD | Lenguaje y alzhéimer | ¿Olvidar palabras es alzhéimer? | automático, Reel 20:30. Fuente: García, A. M., Nature Reviews Psychology (2026), vía Infocop (12/11/2026)
+2026-11-13 | A | TRASTORNOS DEL SUEÑO | Despertares nocturnos infantiles («3 señales…») | ¿Se despierta cada noche? | automático; formato ganador (gancho-pregunta + señales + mito + pasos)
+2026-11-13 | B | ACTUALIDAD | Juguetes y lenguaje (temporada: Black Friday y Navidad) | El mejor juguete no tiene pantalla | automático, Reel 20:30. Sin noticia verificable (no se pudo abrir la fuente) → tema de temporada. Fuente: AAP, Healey y Mendelsohn, Pediatrics (2019)
