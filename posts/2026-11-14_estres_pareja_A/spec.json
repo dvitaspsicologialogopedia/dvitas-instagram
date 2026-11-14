@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PAREJAS", "tema": "ESTRÉS EN PAREJA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿El estrés *duerme con vosotros*?", "subtitulo": "Cómo cuidar la pareja en semanas difíciles."},
+  {"tipo": "cita", "cita": "El problema no es el estrés. *Es cuando os pilla a cada uno por su lado*"},
+  {"tipo": "lista", "titulo": "Señales de que el estrés *se ha colado*", "numerada": true, "items": ["Habláis solo de **logística**: horarios, compras, niños", "Saltáis por **detalles pequeños**", "Cada uno se **aísla** en el móvil o en el trabajo", "Pocos momentos **a solas**, sin prisa"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si nos queremos, el estrés no debería afectarnos.", "realidad": "El estrés afecta a **todas las parejas**. Lo que marca la diferencia es **afrontarlo en equipo**."},
+  {"tipo": "pasos", "titulo": "Lo que sí podéis hacer *hoy*", "pasos": [["10 minutos sin pantallas", "Contaos cómo ha ido el día."], ["Preguntad: ¿qué necesitas?", "Escuchar antes de aconsejar."], ["Repartid la carga", "Una lista visible para los dos."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a tu pareja"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "DETECCIÓN TEMPRANA", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Lo que *no se ve* también importa", "subtitulo": "Muchos problemas emocionales infantiles pasan desapercibidos."},
+  {"tipo": "lista", "titulo": "Qué *ha pasado*", "items": ["Randy W. Kamphaus, creador del **BASC**, habla en Infocop", "Afirma que el **90 %** de los problemas emocionales y de conducta leves a moderados **no se identifican**", "Propone el **cribado** en colegios y pediatría"]},
+  {"tipo": "cita", "cita": "El juicio humano, por sí solo, *no es suficiente* para detectarlo"},
+  {"tipo": "tarjetas", "titulo": "Qué *significa*", "tarjetas": [["No es culpa de nadie", "Muchas señales son silenciosas"], ["Cada mirada suma", "Casa, colegio y amigos ven cosas distintas"], ["Antes es mejor", "Detectar pronto facilita ayudar"], ["Evaluar no es etiquetar", "Es entender qué le pasa"]]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Fíjate en los cambios", "Sueño, apetito, ánimo, ganas de ir al cole."], ["Habla con el colegio", "Compara lo que veis en casa y en clase."], ["Consulta si persiste", "Una evaluación da respuestas, no etiquetas."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

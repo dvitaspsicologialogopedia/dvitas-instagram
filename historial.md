@@ -51,3 +51,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-12 | B | ACTUALIDAD | Lenguaje y alzhéimer | ¿Olvidar palabras es alzhéimer? | automático, Reel 20:30. Fuente: García, A. M., Nature Reviews Psychology (2026), vía Infocop (12/11/2026)
 2026-11-13 | A | TRASTORNOS DEL SUEÑO | Despertares nocturnos infantiles («3 señales…») | ¿Se despierta cada noche? | automático; formato ganador (gancho-pregunta + señales + mito + pasos)
 2026-11-13 | B | ACTUALIDAD | Juguetes y lenguaje (temporada: Black Friday y Navidad) | El mejor juguete no tiene pantalla | automático, Reel 20:30. Sin noticia verificable (no se pudo abrir la fuente) → tema de temporada. Fuente: AAP, Healey y Mendelsohn, Pediatrics (2019)
+2026-11-14 | A | PAREJAS | Estrés y convivencia | ¿El estrés duerme con vosotros? | automático; formato ganador (gancho-pregunta + señales + mito + pasos)
+2026-11-14 | B | ACTUALIDAD | Detección temprana de problemas emocionales infantiles | Lo que no se ve también importa | automático, Reel 20:30. Fuente: Infocop, entrevista a Randy W. Kamphaus (13/11/2026)
