@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "DERECHO AL JUEGO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Jugar también es *un derecho*", "subtitulo": "Se acerca el 20 de noviembre, Día Universal del Niño."},
+  {"tipo": "lista", "titulo": "Qué *dice la ley*", "items": ["La **Convención sobre los Derechos del Niño** (ONU, 1989)", "Su **artículo 31** reconoce el derecho al **descanso**, al **juego** y al **tiempo libre**", "Se celebra cada **20 de noviembre**"]},
+  {"tipo": "cita", "cita": "Una agenda llena *no siempre* es una infancia llena"},
+  {"tipo": "tarjetas", "titulo": "Qué *significa*", "tarjetas": [["Lenguaje", "Jugando se habla, se inventa y se negocia"], ["Emociones", "Ensaya perder, esperar y calmarse"], ["Atención", "Planifica y sostiene un objetivo"], ["Vínculo", "Jugar contigo le da seguridad"]]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Deja un hueco libre", "Un rato al día sin actividad programada."], ["Juega sin pantallas", "Cartas, cocina, disfraces, calle."], ["Sigue su idea", "Tú acompañas; él o ella dirige."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA DE ADULTOS", "tema": "AGOTAMIENTO", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Descansas y *sigues agotado?*", "subtitulo": "Cuando el cansancio no se va con dormir."},
+  {"tipo": "cita", "cita": "No es pereza. *Es un depósito que llevas meses vaciando*"},
+  {"tipo": "lista", "titulo": "Señales de un *agotamiento* que pide atención", "numerada": true, "items": ["Te levantas **cansado** aunque duermas", "Todo te cuesta el **doble** que antes", "Irritabilidad o **distancia** con lo que te importaba", "Olvidos y **dificultad para concentrarte**", "El fin de semana **no te recarga**"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Con unas vacaciones se arregla.", "realidad": "Si vuelves a la **misma carga**, el cansancio vuelve. Hay que revisar **qué lo alimenta**."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Mira tu semana", "Apunta qué te quita y qué te da energía."], ["Quita una cosa", "Delega o aplaza una tarea, solo una."], ["Pide ayuda si dura", "Más de unas semanas: consulta con un profesional."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
