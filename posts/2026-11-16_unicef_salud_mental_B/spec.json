@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "SALUD MENTAL INFANTIL", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "La ayuda funciona mejor *cerca de casa*", "subtitulo": "Lo que dice el nuevo informe de UNICEF."},
+  {"tipo": "lista", "titulo": "Qué *ha pasado*", "items": ["UNICEF publica su informe anual de **salud mental** infantil y adolescente", "En 2025, **7 millones** accedieron a atención estructurada (1,9 millones en 2021)", "Ya está integrada en **atención primaria** en 46 países (22 en 2021)"]},
+  {"tipo": "cita", "cita": "La ayuda que forma parte *del cole y del centro de salud* aguanta mejor"},
+  {"tipo": "tarjetas", "titulo": "Qué *significa*", "tarjetas": [["Pedir ayuda es normal", "No es un caso raro"], ["Cuanto antes, mejor", "Detectar pronto facilita ayudar"], ["Todos suman", "Familia, cole y salud"], ["No estás solo", "Hay a quién acudir"]]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Pregunta sin juzgar", "«¿Cómo estás de verdad?»"], ["Habla con el cole", "Tutor u orientador ven otra parte."], ["Consulta si persiste", "Pediatra o psicólogo sanitario."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "EVALUACIÓN NEUROPSICOLÓGICA", "tema": "CUÁNDO EVALUAR", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Se esfuerza mucho y *no le luce?*", "subtitulo": "Cuándo tiene sentido una evaluación neuropsicológica."},
+  {"tipo": "lista", "titulo": "Señales para pedir una *valoración*", "numerada": true, "items": ["Le cuesta **mucho más** que a otros de su edad", "Los **deberes** se alargan cada tarde", "Lo de siempre: «**si quisiera, podría**»", "Problemas de **atención, lectura o memoria** que no mejoran", "Se nota **frustrado** o dice que «es tonto»"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Evaluar es ponerle una etiqueta.", "realidad": "Una evaluación **explica cómo aprende**: sus puntos fuertes y lo que le cuesta."},
+  {"tipo": "tarjetas", "titulo": "Qué *se valora*", "tarjetas": [["Atención", "Sostenerla y cambiarla"], ["Memoria", "Retener y recuperar"], ["Lenguaje y lectura", "Comprender y expresarse"], ["Funciones ejecutivas", "Planificar y organizarse"]]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Anota lo que ves", "Qué le cuesta, desde cuándo y dónde."], ["Habla con su tutor", "Compara casa y colegio."], ["Pide una valoración", "Si las dificultades se mantienen."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
