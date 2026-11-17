@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "IA Y ADOLESCENTES", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Tu hijo le cuenta todo *a una IA?*", "subtitulo": "Lo que recomienda la Asociación Americana de Psicología."},
+  {"tipo": "tarjetas", "titulo": "Qué *ha pasado*", "tarjetas": [["APA", "Nuevas recomendaciones sobre IA y adolescentes"], ["Evidencia", "Aún en desarrollo: ni buena ni mala sin más"], ["Riesgo", "Chatbots que simulan amistad o apoyo"], ["Aliada", "Útil si complementa, no si sustituye"]]},
+  {"tipo": "cita", "cita": "A un adolescente le cuesta más distinguir *la empatía simulada* de la comprensión real"},
+  {"tipo": "lista", "titulo": "Qué *significa* para tu familia", "items": ["Una IA **no sustituye** a un profesional", "Puede dar información **errónea o incompleta**", "Los vínculos intensos con un chatbot pueden **restar relaciones reales**", "Depender de ella puede **frenar el aprendizaje**"]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Pregunta sin juzgar", "Qué IA usa y para qué."], ["Recuérdale que es una máquina", "No es un amigo ni un terapeuta."], ["Comprobad juntos", "Lo que responde puede fallar."], ["Busca ayuda humana", "Si le ves mal, consulta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

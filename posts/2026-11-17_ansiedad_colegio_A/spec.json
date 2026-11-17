@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA INFANTIL", "tema": "IR AL COLE", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Le duele la tripa *antes del cole?*", "subtitulo": "Cuando ir al colegio cuesta más de la cuenta."},
+  {"tipo": "cita", "cita": "No es teatro: *el malestar es real*, aunque el médico no encuentre nada"},
+  {"tipo": "lista", "titulo": "Señales que merecen *atención*", "numerada": true, "items": ["Dolor de tripa o cabeza **solo los días de cole**", "Llanto o bloqueo **al despedirse**", "Pide **quedarse en casa** cada vez más", "Domingos por la tarde **muy difíciles**", "Lo nota el tutor: **está apagado** o aislado"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si le dejo en casa, se le pasará.", "realidad": "Evitar alivia hoy, pero **hace crecer el miedo** mañana. Ayuda más acompañarle a ir."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Escucha sin juzgar", "Pregunta qué pasa en el cole."], ["Mañanas previsibles", "Misma rutina y despedida breve."], ["Habla con su tutor", "Busca un adulto de referencia."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
