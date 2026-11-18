@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "PREMATURIDAD", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Nació antes: *cuenta su edad corregida*", "subtitulo": "17 de noviembre, Día Mundial de la Prematuridad."},
+  {"tipo": "tarjetas", "titulo": "Qué *se celebra*", "tarjetas": [["17 de noviembre", "Día Mundial de la Prematuridad"], ["Prematuro", "Nacer antes de la semana 37"], ["Objetivo", "Visibilizar a estas familias"], ["Clave", "Seguimiento del desarrollo"]]},
+  {"tipo": "cita", "cita": "Si nació 2 meses antes, a los 8 meses *compáralo con uno de 6*"},
+  {"tipo": "lista", "titulo": "Qué *significa* para tu familia", "items": ["Usa la **edad corregida** al mirar sus hitos", "Cada niño tiene **su propio ritmo**", "Vigila el **lenguaje, la atención y el movimiento**", "Una evaluación a tiempo **da tranquilidad**"]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Calcula su edad corregida", "Edad real menos semanas que se adelantó."], ["Acude a sus revisiones", "Pediatría y seguimiento del hospital."], ["Háblale y juega", "Cada día, cara a cara."], ["Consulta si dudas", "Mejor pronto que tarde."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

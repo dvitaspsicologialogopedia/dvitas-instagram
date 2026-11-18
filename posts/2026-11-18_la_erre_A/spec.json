@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "LOGOPEDIA INFANTIL", "tema": "LA ERRE", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Aún no dice *la erre?*", "subtitulo": "Cuándo esperar y cuándo consultar."},
+  {"tipo": "cita", "cita": "La erre fuerte es *de los últimos sonidos* que aprende un niño"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Ya saldrá sola, o es culpa del frenillo.", "realidad": "En la mayoría de casos **no es el frenillo**: es coordinación y práctica. Y no siempre sale sola."},
+  {"tipo": "lista", "titulo": "Señales para *consultar*", "numerada": true, "items": ["Con **6 años** sigue sin decirla", "La cambia siempre por **l, d o g**", "Le fallan **otros sonidos** además de la erre", "Le cuesta que **le entiendan**", "Evita hablar o **le molesta** que se rían"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["No le hagas repetir", "Repite tú la palabra bien, sin corregir."], ["Juega con sonidos", "Motor de moto, soplar, imitar animales."], ["Leed en voz alta", "Rimas y trabalenguas sencillos."], ["Valora a tiempo", "Una evaluación evita años de esfuerzo."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
