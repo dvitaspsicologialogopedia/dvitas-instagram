@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "SUEÑO ADOLESCENTE", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Dormir a *deshoras* también pesa", "subtitulo": "Adolescentes: un estudio con 1.371 de ellos."},
+  {"tipo": "tarjetas", "titulo": "Qué *ha pasado*", "tarjetas": [["1.371 adolescentes", "Edad media: 14 años"], ["Sueño medido", "Con pulsera, hasta 21 días"], ["7 horas o menos", "Más síntomas emocionales"], ["Horario irregular", "También se asoció a más malestar"]]},
+  {"tipo": "cita", "cita": "No solo importa cuánto duermen: *también cuándo y con qué regularidad*"},
+  {"tipo": "lista", "titulo": "Qué *significa*", "items": ["Es una **asociación**, no prueba la causa", "El sueño y las emociones **se influyen mutuamente**", "Los horarios **regulares** son un objetivo realista", "Si el malestar se mantiene, **consulta**"]},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Pactad una hora fija", "También el fin de semana, con poca diferencia."], ["Móvil fuera del cuarto", "Cárgalo fuera por la noche."], ["Más de 7 horas", "Protegedlas como un horario de clase."], ["Habla de cómo se siente", "Sin sermones, con curiosidad."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

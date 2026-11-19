@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "MITOS VS REALIDAD", "tema": "PREPARAR UNA EVALUACIÓN", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Cómo se lo *explico*?", "subtitulo": "Antes de su primera cita con el psicólogo."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Mejor no decirle nada, o decirle que vamos a jugar.", "realidad": "Una explicación **sencilla y sincera** le da seguridad y le ayuda a colaborar."},
+  {"tipo": "cita", "cita": "No va a un examen: *va a que le conozcan mejor*"},
+  {"tipo": "lista", "titulo": "Qué le puedes *decir*", "items": ["Vas a conocer a alguien que **ayuda a los niños**", "Haréis **juegos, dibujos y preguntas**", "**No hay notas** ni respuestas malas", "Yo te espero **cerca**"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Elige un momento tranquilo", "Cuéntaselo uno o dos días antes."], ["Que duerma y desayune bien", "Llega descansado a la cita."], ["Lleva sus informes", "Colegio, pediatra y gafas si las usa."], ["Escucha sus dudas", "Y responde sin prometer premios."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
