@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "DÍA DEL NIÑO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Hoy su *opinión* también cuenta", "subtitulo": "20 de noviembre, Día Universal del Niño."},
+  {"tipo": "tarjetas", "titulo": "Qué *se celebra* hoy", "tarjetas": [["20 de noviembre", "Aniversario de la Convención de los Derechos del Niño (ONU, 1989)."], ["Artículo 12", "Derecho a opinar en lo que le afecta, según su edad y madurez."]]},
+  {"tipo": "cita", "cita": "Escucharle no es darle siempre la razón: *es tenerle en cuenta*"},
+  {"tipo": "lista", "titulo": "Por qué *importa* en casa", "items": ["Puede sentirse **valorado** y confiar más en ti", "Aprende a **poner palabras** a lo que siente", "Es más fácil que te cuente **lo que le preocupa**"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Pregunta en abierto", "«¿Qué fue lo mejor de hoy?» en vez de «¿Qué tal?»."], ["Deja que elija", "Entre dos opciones a su medida: ropa, cena, plan."], ["Escucha sin corregir", "Primero entiende; luego, si hace falta, orienta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

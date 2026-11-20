@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "TRASTORNOS DEL SUEÑO", "tema": "TERRORES NOCTURNOS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Pesadilla o *terror nocturno*?", "subtitulo": "3 señales para consultar."},
+  {"tipo": "tarjetas", "titulo": "No son *lo mismo*", "tarjetas": [["Pesadilla", "Segunda mitad de la noche. Se despierta, lo recuerda y busca consuelo."], ["Terror nocturno", "Primeras horas de sueño. Grita, no despierta del todo y no lo recuerda."]]},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Hay que despertarle para que se le pase.", "realidad": "En un terror nocturno, despertarle suele **alargar el episodio**. Mejor **acompañar en calma** y cuidar que no se haga daño."},
+  {"tipo": "lista", "titulo": "3 señales para *consultar*", "numerada": true, "items": ["Episodios **casi cada noche** o varias veces por noche", "Se levanta, camina o **puede hacerse daño**", "Ronca, respira mal o está **muy cansado de día**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Que no le falte sueño", "El cansancio favorece los episodios."], ["Habitación segura", "Sin objetos con los que tropezar."], ["Anota hora y duración", "Te ayudará en la consulta."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
