@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "NATURALEZA Y ÁNIMO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿La naturaleza *calma la ansiedad*?", "subtitulo": "Lo que dice una gran revisión de 2026."},
+  {"tipo": "tarjetas", "titulo": "Qué *ha pasado*", "tarjetas": [["116 revisiones", "Analizadas en conjunto"], ["3.870 estudios", "De 31 países"], ["+10 millones", "De personas estudiadas"], ["Nature Human Behaviour", "Publicado en 2026"]]},
+  {"tipo": "lista", "titulo": "Qué *significa*", "items": ["Actividades en la naturaleza se asocian a **menos ansiedad** y síntomas depresivos", "Mejoran el **estado de ánimo** y la relajación", "Destacan **baños de bosque**, estar en entornos naturales y la **jardinería**"]},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Con salir al campo ya no hace falta terapia.", "realidad": "Es un **complemento**, no un sustituto de los tratamientos que ya han demostrado eficacia."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Sal a un parque", "Aunque sea un rato, sin prisas."], ["Cuida algo verde", "Una planta en casa o un huerto."], ["Hazlo en familia", "Un paseo sin pantallas este finde."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PAREJAS", "tema": "COMUNICACIÓN", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Hablas con tu pareja *y no te escucha*?", "subtitulo": "Cómo pasar del reproche a la petición."},
+  {"tipo": "cita", "cita": "No discutís por lo que decís. *Discutís por cómo lo decís*"},
+  {"tipo": "lista", "titulo": "Señales de que la comunicación *se atasca*", "numerada": true, "items": ["Empezáis con **«siempre»** o **«nunca»**", "Uno habla y el otro **prepara la respuesta**", "Las conversaciones acaban en **silencio o portazo**", "Evitáis temas **para no discutir**"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si me quisiera, sabría lo que necesito sin decírselo.", "realidad": "Nadie lee la mente. **Pedir con claridad** es una forma de cuidar la relación."},
+  {"tipo": "pasos", "titulo": "Lo que sí podéis hacer *hoy*", "pasos": [["Habla en primera persona", "«Me siento solo cuando…» en vez de «Tú nunca…»."], ["Pide algo concreto", "«¿Cenamos sin móviles hoy?»"], ["Resume lo que oyes", "«Lo que me dices es…» antes de responder."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a tu pareja"}
+ ]}
