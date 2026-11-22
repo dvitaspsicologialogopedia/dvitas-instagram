@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA DE ADULTOS", "tema": "DUELO", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Navidad *con una silla vacía*?", "subtitulo": "Cómo atravesar estas fechas con un duelo."},
+  {"tipo": "cita", "cita": "Echar de menos *también es querer*"},
+  {"tipo": "lista", "titulo": "Lo que es *normal* sentir", "items": ["**Tristeza** que aparece de golpe", "**Culpa** por disfrutar un momento", "Ganas de **no celebrar nada**", "Más **cansancio** y peor sueño"]},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Hay que estar bien por los demás.", "realidad": "Puedes **adaptar las fechas** a cómo estás. Nombrar a quien falta también es celebrar."},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Elige qué tradiciones mantener", "Y cuáles cambiar este año."], ["Crea un gesto de recuerdo", "Una vela, una foto, su receta."], ["Pide compañía", "Di a alguien de confianza cómo estás."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

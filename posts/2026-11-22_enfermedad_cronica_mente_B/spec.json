@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "SALUD Y MENTE", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Salud crónica: *la mente cuenta*", "subtitulo": "Lo que dice un nuevo ensayo en PLOS Medicine."},
+  {"tipo": "tarjetas", "titulo": "Qué ha *pasado*", "tarjetas": [["825 adultos", "Con enfermedades crónicas, 13 países"], ["Programa digital", "Respiración, movimiento y afrontamiento"], ["12 semanas", "Comparado con la atención habitual"], ["Resultado", "Menos ansiedad, depresión y fatiga"]]},
+  {"tipo": "cita", "cita": "Cuidar el cuerpo *y también la mente*"},
+  {"tipo": "mito", "titulo": "Qué *significa*", "mito": "Si estás enfermo, es normal estar siempre ansioso o triste.", "realidad": "Es frecuente, pero **se puede tratar**. Pedir ayuda psicológica forma parte del tratamiento."},
+  {"tipo": "pasos", "titulo": "Qué puedes hacer *hoy*", "pasos": [["Respira despacio", "Unos minutos al día, sin prisa."], ["Muévete a tu medida", "Estiramientos o un paseo suave."], ["Cuéntalo en consulta", "Tu ánimo también es un síntoma."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
