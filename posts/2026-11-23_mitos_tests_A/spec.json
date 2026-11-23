@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "EVALUACIÓN NEUROPSICOLÓGICA", "tema": "MITOS DE LOS TESTS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Un test dice *si es listo*?", "subtitulo": "Lo que de verdad mide una evaluación."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Una evaluación es pasarle un test y sacar un número.", "realidad": "Se combinan **varias pruebas**, la entrevista con la familia, el colegio y la **observación**."},
+  {"tipo": "tarjetas", "titulo": "Qué se *valora*", "tarjetas": [["Atención", "Sostenerla y cambiarla"], ["Memoria", "Retener y recuperar"], ["Lenguaje", "Comprender y expresar"], ["Funciones ejecutivas", "Planificar y organizarse"]]},
+  {"tipo": "lista", "titulo": "Lo que *no* es", "items": ["**No es un examen**: no se aprueba ni se suspende", "**No es una etiqueta** para siempre", "**No hay que prepararla**: basta con que venga descansado", "**No es solo el CI**: importa el perfil completo"]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Anota lo que te preocupa", "Qué le cuesta y desde cuándo."], ["Habla con su tutor", "Comparad lo que veis en casa y en clase."], ["Pide una valoración", "Si las dificultades se mantienen."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

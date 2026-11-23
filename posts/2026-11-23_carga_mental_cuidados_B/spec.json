@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "CARGA MENTAL", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Trabajo, casa y cuidados: *¿te pesa?*", "subtitulo": "Lo que dice un nuevo barómetro."},
+  {"tipo": "datos", "titulo": "Qué ha *pasado*", "filas": [["Notan efecto en su salud mental", 0.585, "58,5 %"], ["Si cuidan a un dependiente", 0.805, "80,5 %"]], "nota": "Encuesta online a 988 mujeres. Fuente: VI Barómetro FEDEPE (2026)."},
+  {"tipo": "cita", "cita": "La carga invisible *también cansa*"},
+  {"tipo": "lista", "titulo": "Señales de que *pesa demasiado*", "items": ["**Cansancio** que no se va al descansar", "**Irritabilidad** con quien más quieres", "Cabeza **llena de pendientes** al acostarte", "Sin **tiempo para ti** en semanas"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Haz visible la lista", "Escribid juntos todo lo que hay que hacer."], ["Reparte, no ayudes", "Cada tarea, con un responsable."], ["Reserva un rato para ti", "Aunque sean 20 minutos."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
