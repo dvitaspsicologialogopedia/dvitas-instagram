@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "ANIMALES Y APOYO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Tu perro también *es familia*?", "subtitulo": "Un estudio español lo pone en cifras."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["Estudio con **100 personas** en situación vulnerable", "Publicado en **Frontiers in Psychology** (2026)", "El **90 %** señaló a su perro o gato como su apoyo más frecuente"]},
+  {"tipo": "cita", "cita": "Un apoyo que suma, *no que sustituye*"},
+  {"tipo": "tarjetas", "titulo": "Qué *significa*", "tarjetas": [["Compañía", "Su apoyo principal en el día a día"], ["Malestar", "A veces, el único apoyo"], ["Consejo", "Ahí siguen haciendo falta personas"], ["Límites", "No mide si mejora la ansiedad"]]},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Cuida ese vínculo", "Si te sostiene, cuenta."], ["Busca también personas", "Alguien con quien hablar y pedir consejo."], ["Pide ayuda si pesa", "La soledad tiene salida."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

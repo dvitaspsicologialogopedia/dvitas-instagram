@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PSICOLOGÍA INFANTIL", "tema": "FRUSTRACIÓN", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Llora cada vez *que pierde*?", "subtitulo": "Tolerar la frustración también se aprende."},
+  {"tipo": "cita", "cita": "Perder no le enseña a ganar: *le enseña a seguir*"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si le dejo ganar siempre, se frustrará menos.", "realidad": "La tolerancia a la frustración **se entrena** con pequeñas derrotas **acompañadas**."},
+  {"tipo": "lista", "titulo": "Señales que merecen una *consulta*", "numerada": true, "items": ["Rabietas **muy intensas** casi a diario", "**Evita jugar** o probar por miedo a perder", "Se **hace daño** o rompe cosas al enfadarse", "Le afecta **en clase** o con amigos"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Pon nombre a la emoción", "«Te ha dado rabia perder»."], ["Espera a que se calme", "Primero calma, luego hablar."], ["Perded vosotros también", "Muéstrale cómo se pierde bien."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
