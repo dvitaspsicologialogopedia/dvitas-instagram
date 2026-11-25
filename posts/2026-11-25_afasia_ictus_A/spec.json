@@ -1,0 +1,10 @@
+{"fondo": "azul", "eje": "LOGOPEDIA DE ADULTOS", "tema": "AFASIA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Lo piensa *pero no le sale?*", "subtitulo": "Afasia tras un ictus: el lenguaje también se rehabilita."},
+  {"tipo": "cita", "cita": "Perder palabras *no es perder la inteligencia*"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si no habla bien, tampoco entiende.", "realidad": "La afasia afecta al **lenguaje**, no a la inteligencia. Muchas personas **entienden más** de lo que pueden decir."},
+  {"tipo": "tarjetas", "titulo": "Qué puede *afectar*", "tarjetas": [["Hablar", "Buscar palabras, frases cortas"], ["Comprender", "Seguir una conversación"], ["Leer", "Textos y mensajes"], ["Escribir", "Notas, el móvil"]]},
+  {"tipo": "lista", "titulo": "Señales para pedir *valoración*", "numerada": true, "items": ["Le **cuesta encontrar** las palabras", "Cambia unas palabras **por otras**", "Se pierde al **seguir** una conversación", "Ha empezado a **evitar** hablar o leer"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Habla con calma", "Frases cortas, una idea cada vez."], ["Dale tiempo", "No termines sus frases."], ["Usa apoyos", "Gestos, dibujos, escribir, señalar."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

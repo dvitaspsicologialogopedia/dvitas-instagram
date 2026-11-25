@@ -75,3 +75,5 @@ Formato: `AAAA-MM-DD | A/B | EJE | tema | gancho | notas`
 2026-11-23 | B | ACTUALIDAD | Carga mental y cuidados (VI Barómetro FEDEPE) | Trabajo, casa y cuidados: ¿te pesa? | automático, Reel 20:30. Fuente: VI Barómetro FEDEPE (2026), vía Infocop (17/11/2026)
 2026-11-24 | A | PSICOLOGÍA INFANTIL | Tolerancia a la frustración (llorar al perder) | ¿Llora cada vez que pierde? | automático; formato ganador (gancho-pregunta + cita + mito + señales + pasos)
 2026-11-24 | B | ACTUALIDAD | Animales de compañía como apoyo emocional | ¿Tu perro también es familia? | automático, Reel 20:30. Fuente: Boada et al., Frontiers in Psychology (2026), vía Infocop (19/11/2026)
+2026-11-25 | A | LOGOPEDIA DE ADULTOS | Afasia tras ictus | ¿Lo piensa pero no le sale? | automático; formato ganador (gancho-pregunta + cita + mito + tarjetas + señales + pasos)
+2026-11-25 | B | ACTUALIDAD | Adaptaciones en clase para el TDAH (ensayo clínico) | TDAH: ¿basta con más tiempo? | automático, Reel 20:30. Fuente: ensayo dirigido por Gregory Fabiano (FIU), JAMA Pediatrics (2026), vía Medical Daily (18/11/2026)

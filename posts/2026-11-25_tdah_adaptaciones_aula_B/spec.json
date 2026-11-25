@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "TDAH EN CLASE", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "TDAH: ¿basta con *más tiempo?*", "subtitulo": "Un ensayo con 255 niños lo ha puesto a prueba."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["Ensayo publicado en **JAMA Pediatrics**", "**255 niños** con TDAH, de infantil a 6.º", "Probaron **tiempo extra**, descansos, estar de pie y menos distracciones", "Ninguna adaptación mejoró **por sí sola** conducta, tareas o notas"]},
+  {"tipo": "tarjetas", "titulo": "Qué sí *ayudó*", "tarjetas": [["Programa conductual", "37 % menos saltos de normas en clase"], ["Medicación pautada", "61 % menos frente a placebo"]]},
+  {"tipo": "mito", "titulo": "Qué *significa*", "mito": "Con más tiempo en los exámenes, el TDAH está atendido.", "realidad": "Las adaptaciones pueden ayudar, pero **no sustituyen** a un plan con **estrategias de conducta** y seguimiento."},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Evaluación completa", "Para saber qué necesita."], ["Familia y colegio", "Un mismo plan en casa y en clase."], ["No retires apoyos", "Revísalos con su equipo."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
