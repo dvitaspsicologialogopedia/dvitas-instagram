@@ -1,0 +1,9 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "DEPRESIÓN EN ESPAÑA", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Casi *1 de cada 11* con síntomas depresivos", "subtitulo": "Un estudio con más de 22.000 personas en España."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["Estudio en la revista **Atención Primaria** (Univ. de Cádiz)", "**22.072 personas** de la Encuesta Europea de Salud", "**8,7 %** con síntomas depresivos relevantes", "Mujeres **11,6 %** frente a hombres **5,5 %**"]},
+  {"tipo": "tarjetas", "titulo": "Qué se *asocia*", "tarjetas": [["Enfermedad crónica", "96 % con síntomas"], ["Inactividad física", "53 % vs 37 % del total"], ["Peor salud percibida", "Solo 28 % la ve buena"], ["Más visitas al médico", "Posible señal temprana"]]},
+  {"tipo": "mito", "titulo": "Qué *significa*", "mito": "Si estoy así, es solo cuestión de voluntad.", "realidad": "Es un **cribado**, no un diagnóstico. Pero muestra que cuerpo y mente van **juntos** y que hay factores que **sí se pueden cambiar**."},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Muévete a diario", "Caminar también cuenta."], ["Cuéntalo en tu centro de salud", "Si el ánimo bajo dura semanas."], ["Pide ayuda psicológica", "Cuanto antes, mejor."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

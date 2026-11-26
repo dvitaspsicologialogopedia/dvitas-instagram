@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "MITOS VS REALIDAD", "tema": "PANTALLAS Y CALMA", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Solo se *calma* con la tablet?", "subtitulo": "Lo que pasa cuando la pantalla apaga el enfado."},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si la tablet le calma, le está ayudando.", "realidad": "Le **distrae**, pero no le enseña a calmarse. Si es la única salida, el enfado vuelve **más fuerte** cuando se apaga."},
+  {"tipo": "cita", "cita": "Calmarse se aprende *con alguien al lado*"},
+  {"tipo": "lista", "titulo": "Señales para *revisar* el uso", "numerada": true, "items": ["Pide la pantalla **ante cualquier malestar**", "Rabietas **intensas** al apagarla", "Le cuesta **esperar o aburrirse**", "Menos **juego** y menos **conversación**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Nombra lo que siente", "«Estás enfadado, es normal»."], ["Un rincón de calma", "Cojín, cuento, respirar juntos."], ["Avisa antes de apagar", "«Cinco minutos y la guardamos»."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
