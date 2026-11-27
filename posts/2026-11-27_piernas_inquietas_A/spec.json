@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "TRASTORNOS DEL SUEÑO", "tema": "PIERNAS INQUIETAS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Le molestan las *piernas* al dormir?", "subtitulo": "3 señales para consultar."},
+  {"tipo": "cita", "cita": "No es que no quiera dormirse: *sus piernas no le dejan*"},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Son dolores de crecimiento, ya se le pasará.", "realidad": "A veces sí. Pero si aparece **al acostarse** y **mejora al moverse**, conviene que lo valore un profesional."},
+  {"tipo": "lista", "titulo": "3 señales para *consultar*", "numerada": true, "items": ["Necesita **mover las piernas** en reposo o en la cama", "Empeora **por la tarde y la noche**", "Le cuesta dormirse o está **cansado de día**"], "aviso": true},
+  {"tipo": "pasos", "titulo": "Lo que sí puedes hacer *hoy*", "pasos": [["Horario regular", "Acostarse y levantarse a la misma hora."], ["Sin cafeína por la tarde", "Ojo con colas, té y chocolate."], ["Anota las noches", "Cuándo aparece y qué le alivia."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

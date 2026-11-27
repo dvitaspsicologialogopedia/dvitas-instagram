@@ -1,0 +1,8 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "MÓVIL Y SUEÑO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "Móvil tras las 22:00: *menos sueño*", "subtitulo": "Lo que dice un estudio reciente en adolescentes."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["Estudio publicado en **JAMA Pediatrics**", "Compara a cada adolescente **consigo mismo**", "Las noches de móvil tras las 22:00 tardan **más en dormirse**", "Y duermen **menos tiempo** en total"]},
+  {"tipo": "mito", "titulo": "Qué *significa*", "mito": "Con el modo noche, el móvil ya no afecta.", "realidad": "Ayuda, pero no basta: el móvil **quita tiempo de sueño** y **activa la mente**. La luz es solo una parte."},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Móviles a cargar fuera", "Del dormitorio, los de toda la casa."], ["Una hora sin pantallas", "Leer, ducha, música o charlar."], ["Normas pactadas", "Y los adultos también las cumplen."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
