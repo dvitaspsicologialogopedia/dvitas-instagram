@@ -1,0 +1,8 @@
+{"fondo": "crema", "eje": "ACTUALIDAD", "tema": "MEDIR EL SUEÑO", "reel": true,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Tu pulsera *te quita el sueño*?", "subtitulo": "Lo que dicen los expertos europeos del sueño."},
+  {"tipo": "lista", "titulo": "Qué ha *pasado*", "items": ["Informe de la **Sociedad Europea de Investigación del Sueño**", "Publicado en **Journal of Sleep Research**", "Alerta de la **obsesión** por monitorizar el sueño", "Piden **pruebas más sólidas** para estos dispositivos"]},
+  {"tipo": "mito", "titulo": "Qué *significa*", "mito": "Si la app dice que dormí mal, dormí mal.", "realidad": "Los datos orientan, pero **no diagnostican**. Vivir pendiente de la nota puede dar **más ansiedad y peor descanso**."},
+  {"tipo": "pasos", "titulo": "Qué puedes *hacer*", "pasos": [["Fíjate en cómo te sientes", "Energía y ánimo durante el día."], ["No mires la app al despertar", "Ni la consultes de noche."], ["Consulta si persiste", "Insomnio, ronquidos o mucho sueño de día."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}

@@ -1,0 +1,9 @@
+{"fondo": "azul", "eje": "PAREJAS", "tema": "CELOS", "reel": false,
+ "slides": [
+  {"tipo": "portada", "titulo": "¿Los celos *os están separando*?", "subtitulo": "Qué hay detrás y cómo hablarlo en pareja."},
+  {"tipo": "cita", "cita": "Sentir celos es humano. *Lo que haces con ellos* marca la diferencia"},
+  {"tipo": "lista", "titulo": "Señales de que los celos *pesan demasiado*", "numerada": true, "items": ["Revisar el **móvil** o las redes del otro", "Pedir **explicaciones** de cada salida", "Discusiones por **sospechas**, no por hechos", "Dejar de ver a gente **para evitar conflictos**"], "aviso": true},
+  {"tipo": "mito", "titulo": "Mito vs *realidad*", "mito": "Si tiene celos, es porque me quiere mucho.", "realidad": "El amor no necesita **vigilar ni controlar**. Los celos intensos suelen hablar de **miedo e inseguridad**."},
+  {"tipo": "pasos", "titulo": "Lo que sí podéis hacer *hoy*", "pasos": [["Nombra la emoción", "«Me siento inseguro cuando…» en vez de acusar."], ["Separa hechos de miedos", "¿Qué ha pasado y qué estoy imaginando?"], ["Pactad acuerdos", "Qué necesita cada uno para sentirse tranquilo."]]},
+  {"tipo": "cta", "titulo": "Guárdalo y *envíaselo* a quien lo necesite"}
+ ]}
